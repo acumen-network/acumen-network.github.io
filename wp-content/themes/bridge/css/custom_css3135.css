@@ -126,7 +126,7 @@ header .header_top .q_social_icon_holder {
 
 .section .carousel-indicators {
     position: relative;
-    bottom: -180px;
+    bottom: -15em;
 }
 
 .title.title_size_medium h1 {
