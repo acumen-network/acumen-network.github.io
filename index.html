@@ -240,10 +240,10 @@
 
 <div class="wrapper">
     <div class="wrapper_inner">
-        <header class="scroll_header_top_area  stick transparent scrolled_not_transparent header_style_on_scroll page_header">
-            <div class="header_inner clearfix">
+        <header class="scroll_header_top_area stick scrolled_not_transparent header_style_on_scroll page_header" style="position: fixed">
+            <div id="header" class="header_inner clearfix">
                 <div class="header_top_bottom_holder">
-                    <div class="header_bottom clearfix" style=' background-color:rgba(255, 255, 255, 0) !important;'>
+                    <div class="header_bottom clearfix" style=' background-color:rgba(255, 255, 255, 1) !important;'>
                         <div class="container">
                             <div class="container_inner clearfix">
                                 <div class="header_inner_left">
@@ -341,7 +341,7 @@
             <span class="fa-stack"><i class="fa fa-arrow-up" style=""></i></span>
         </a>
 
-        <div class="content content_top_margin_none has_slider">
+        <div id="fullPage" class="content content_top_margin_none has_slider">
             <div class="content_inner no_animation">
                 <div class="full_screen_preloader" style="display: none;">
                     <div class="ajax_loader">
@@ -375,7 +375,8 @@
                                     <div class="carousel-inner " data-start="transform: translateY(0px);" data-1440="transform: translateY(0px);">
                                         <div class="item content_vertical_middle">
                                             <div class="image" style="background-image:url(wp-content/uploads/2017/04/slide-1.jpg);">
-                                                <img itemprop="image" src="wp-content/uploads/2017/04/slide-1.jpg" alt="Expert Business<br/>Consulting Company">
+                                                <img itemprop="image" src="wp-content/uploads/2017/04/slide-1.jpg"
+                                                     alt="Expert Business<br/>Consulting Company">
                                             </div>
                                             <div class="slider_content_outer">
                                                 <div class="slider_content left" data-0="opacity: 1" data-300="opacity: 0">
@@ -1217,7 +1218,6 @@
                 </div>
             </div>
         </div>
-
     </div>
 </div>
 <!--<div class="content has_slider">-->
@@ -1330,14 +1330,14 @@
 </script>
 <script>
     jQuery(document).ready(function () {
-        jQuery('.full_screen_holder').fullpage({
-                                                   menu: '.full_page_menu',
-                                                   fixecElements: '.header_inner',
-                                                   verticalCentered: false,
-                                                   css3: true,
-                                                   hybrid: true,
-                                                   scrollingSpeed: 1000,
-                                               });
+        jQuery('#fullPage').fullpage({
+                                         menu: '.full_page_menu',
+                                         verticalCentered: false,
+                                         css3: true,
+                                         hybrid: true,
+                                         bigSectionsDestination: 'top',
+                                         scrollingSpeed: 1000
+                                     });
     });
 </script>
 <script type='text/javascript' src='wp-content/themes/bridge/js/default.min66f2.js?ver=4.7.5'></script>
