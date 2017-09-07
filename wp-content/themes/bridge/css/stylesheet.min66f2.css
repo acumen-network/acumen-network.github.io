@@ -7215,11 +7215,6 @@ article .qode-portfolio-new-badge {
     height: 100%
 }
 
-.testimonials_masonry_holder .testimonial_content_inner {
-    display: table-cell;
-    vertical-align: middle
-}
-
 .testimonials_masonry_holder .testimonials_header_desc {
     color: #303030
 }
@@ -7252,15 +7247,13 @@ article .qode-portfolio-new-badge {
 }
 
 .testimonials_item .testimonial_content {
-    padding: 25px
+    padding: 15px
 }
 
 .testimonials_item .testimonial_image_holder {
-    width: 49px;
-    height: 49px;
     margin-bottom: 20px;
-    -webkit-filter: grayscale(100%);
-    filter: grayscale(100%)
+    /*-webkit-filter: grayscale(100%);*/
+    /*filter: grayscale(100%)*/
 }
 
 .tstm_item_large {
@@ -7268,9 +7261,9 @@ article .qode-portfolio-new-badge {
 }
 
 .tstm_item_large .testimonial_image_holder {
-    width: 90px;
-    height: 90px;
-    margin-bottom: 30px
+    height: 55px;
+    margin-bottom: 25px;
+    margin-top: 10px;
 }
 
 .tstm_item_large .testimonials_sep {
@@ -8676,7 +8669,7 @@ blockquote i.pull-left {
 }
 
 .q_icon_with_title.left_from_title.small.normal_icon .icon_holder, .q_icon_with_title.left_from_title.tiny .icon_holder, .q_icon_with_title.tiny .icon_holder img {
-    width: 35px
+    width: 70px
 }
 
 .q_icon_with_title.left_from_title.large.normal_icon .icon_holder, .q_icon_with_title.left_from_title.small .icon_holder, .q_icon_with_title.small .icon_holder img {
@@ -26347,6 +26340,10 @@ button.qode-btn, input[type=submit].qode-btn {
 
 .qode-accordion-holder .qode-title-holder.ui-state-active .qode-accordion-mark-icon span:last-child {
     opacity: 1
+}
+
+.qode-accordion-content-inner p span {
+    color: #ffe522;
 }
 
 .qode-int-icon-showcase {
