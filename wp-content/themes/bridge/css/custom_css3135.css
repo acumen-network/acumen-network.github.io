@@ -1,12 +1,12 @@
 
 .q_icon_list .qode-ili-icon-holder {
-    line-height: 51px;
-    height: 51px;
-    width: 51px;
+    line-height: 28px;
+    height: 28px;
+    width: 28px;
 }
 
 .q_icon_list p {
-    padding: 13px 0 0 66px;
+    /*padding: 13px 0 0 66px;*/
 }
 
 .footer_top .widget_nav_menu ul li {
