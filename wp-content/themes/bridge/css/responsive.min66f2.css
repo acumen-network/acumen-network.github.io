@@ -251,7 +251,7 @@
 
     .tstm_block_2 .tstm_item_large, .tstm_block_3 .tstm_item_large {
         width: calc(100% - 34px);
-        padding-top: calc(120% - 34px)
+        padding-top: 0;
     }
 
     .boxed .section .section_inner .tstm_block_2 .tstm_item_large, .boxed .section .section_inner .tstm_block_3 .tstm_item_large, .container .container_inner .tstm_block_2 .tstm_item_large, .container .container_inner .tstm_block_3 .tstm_item_large, .grid_section .section_inner .tstm_block_2 .tstm_item_large, .grid_section .section_inner .tstm_block_3 .tstm_item_large {
@@ -1229,7 +1229,7 @@
     }
 
     .q_icon_list p {
-        padding: 0 0 0 45px
+        /*padding: 0 0 0 45px*/
     }
 
     .q_icon_list i {
@@ -1928,7 +1928,7 @@
         touch-action: inherit !important
     }
 
-    .fp-scrollable, .fp-section.fp-table, .fp-slide.fp-table, .fp-tableCell, .slimScrollDiv {
+    .fp-scrollable, .fp-section.fp-table, .fp-slide.fp-table, .slimScrollDiv {
         height: auto !important
     }
 
@@ -1966,7 +1966,7 @@
 
     .testimonials_item, .testimonials_item.testimonials_header, .testimonials_item.tstm_item_large {
         width: calc(100% - 34px);
-        padding-top: calc(100% - 34px)
+        padding-top: 0;
     }
 
     .boxed .section .section_inner .testimonials_masonry_holder .testimonials_item, .boxed .section .section_inner .testimonials_masonry_holder .testimonials_item.testimonials_header, .boxed .section .section_inner .testimonials_masonry_holder .testimonials_item.tstm_item_large, .container .container_inner .testimonials_masonry_holder .testimonials_item, .container .container_inner .testimonials_masonry_holder .testimonials_item.testimonials_header, .container .container_inner .testimonials_masonry_holder .testimonials_item.tstm_item_large, .grid_section .section_inner .testimonials_masonry_holder .testimonials_item, .grid_section .section_inner .testimonials_masonry_holder .testimonials_item.testimonials_header, .grid_section .section_inner .testimonials_masonry_holder .testimonials_item.tstm_item_large {

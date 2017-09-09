@@ -3279,7 +3279,7 @@ div.video_section {
 
 .q_icon_list p {
     font-size: 15px;
-    line-height: 27px;
+    line-height: 34px;
     font-weight: 400;
     margin: 0 0 10px;
     padding: 0 0 0 38px;
@@ -7190,7 +7190,7 @@ article .qode-portfolio-new-badge {
 }
 
 .testimonials_masonry_holder .testimonial_content {
-    position: absolute;
+    position: relative;
     top: 0;
     left: 0;
     width: 100%;
@@ -7220,7 +7220,7 @@ article .qode-portfolio-new-badge {
 }
 
 .testimonials_block {
-    width: 33.33%;
+    /*width: 33.33%;*/
     display: inline-block;
     vertical-align: middle
 }
@@ -7247,7 +7247,7 @@ article .qode-portfolio-new-badge {
 }
 
 .testimonials_item .testimonial_content {
-    padding: 15px
+    padding: 15px 0;
 }
 
 .testimonials_item .testimonial_image_holder {
@@ -7257,7 +7257,8 @@ article .qode-portfolio-new-badge {
 }
 
 .tstm_item_large {
-    padding-top: calc(100% - 34px)
+    /*padding-top: calc(100% - 34px)*/
+    padding-top: 0;
 }
 
 .tstm_item_large .testimonial_image_holder {
