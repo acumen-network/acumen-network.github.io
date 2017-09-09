@@ -77,7 +77,7 @@
 
 <div class="wrapper">
     <div class="wrapper_inner">
-        <header class="scroll_header_top_area stick scrolled_not_transparent header_style_on_scroll page_header" style="position: fixed">
+        <header class="scroll_header_top_area stick scrolled_not_transparent header_style_on_scroll page_header" style="position: fixed !important;">
             <div id="header" class="header_inner clearfix">
                 <div class="header_top_bottom_holder">
                     <div class="header_bottom clearfix" style=' background-color:rgba(255, 255, 255, 1) !important;'>
@@ -1321,16 +1321,12 @@
 <script type='text/javascript' src='wp-content/themes/bridge/js/default_dynamic9045.js?ver=1493025881'></script>
 <script>
     jQuery(document).ready(function () {
-        if (jQuery(window).width() > 768) {
-            jQuery('#fullPage').fullpage({
-                                             menu: '.full_page_menu',
-                                             verticalCentered: false,
-                                             css3: true,
-                                             hybrid: true,
-                                             bigSectionsDestination: 'top',
-                                             scrollingSpeed: 1000
-                                         });
-        }
+        jQuery('#fullPage').fullpage({
+             responsiveWidth: 1024,
+             menu: '.full_page_menu',
+             verticalCentered: true,
+             bigSectionsDestination: 'top'
+         });
     });
 </script>
 <script type='text/javascript' src='wp-content/themes/bridge/js/default.min66f2.js?ver=4.7.5'></script>
