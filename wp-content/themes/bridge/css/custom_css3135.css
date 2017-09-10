@@ -183,3 +183,7 @@ header .header_top .q_social_icon_holder {
     color:#ffffff;
     padding-top: 1.5em;
 }
+
+.testimonial_content_inner .testimonials_c_holder .testimonial_content_inner {
+    background-color: transparent;
+}
