@@ -181,7 +181,7 @@ header .header_top .q_social_icon_holder {
 }
 
 .qode-np-item p {
-    color:#ffffff;
+    color: #ffffff;
     padding-top: 1em;
 }
 
@@ -199,4 +199,22 @@ header .header_top .q_social_icon_holder {
 
 .testimonials_holder.light .flex-direction-nav a:hover {
     background-color: #ffffff !important;
+}
+
+.qode-accordion-holder .qode-title-holder.ui-state-active, .qode-accordion-holder .qode-title-holder:hover,
+.section_inner .qode-np-item span.qode-np-item-number, .qode-accordion-content-inner {
+    background-color: #00A896 !important;
+}
+
+.section_inner .qode-np-item span.qode-np-item-number {
+    color: #fff;
+}
+
+.qode-accordion-content-inner {
+    opacity: 0.6;
+    padding: 19px 25px 39px 40px; ;
+}
+
+.qode-accordion-content {
+    padding: 0 !important;
 }
