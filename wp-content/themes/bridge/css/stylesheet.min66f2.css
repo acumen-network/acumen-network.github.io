@@ -1345,7 +1345,7 @@ header.centered_logo .q_logo img {
 }
 
 header.centered_logo.centered_logo_animate .q_logo img, header:not(.centered_logo) .q_logo img {
-    height: 100%
+    height: 85% !important;;
 }
 
 header.centered_logo.sticky .q_logo img {
