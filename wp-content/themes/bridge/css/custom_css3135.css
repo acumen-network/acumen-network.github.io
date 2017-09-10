@@ -178,3 +178,8 @@ header .header_top .q_social_icon_holder {
 #fp-nav.right ul li a span {
     background: #ffe522;
 }
+
+.qode-np-item p {
+    color:#ffffff;
+    padding-top: 1.5em;
+}
