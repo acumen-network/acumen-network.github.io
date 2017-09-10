@@ -3309,7 +3309,7 @@ div.video_section {
 
 .q_progress_bar {
     position: relative;
-    margin: 0 0 28px;
+    margin: 0 0 10px;
     width: 100%;
     overflow: hidden;
     text-align: left
@@ -3335,7 +3335,6 @@ div.video_section {
 
 .q_progress_bar .progress_title_holder {
     position: relative;
-    margin: 0 0 7px
 }
 
 .q_progress_bar .progress_title {
@@ -7303,7 +7302,6 @@ article .qode-portfolio-new-badge {
 }
 
 .testimonials_c_holder .testimonial_content_inner {
-    background: #fff;
     box-sizing: border-box;
     padding: 60px 45px;
     text-align: center
