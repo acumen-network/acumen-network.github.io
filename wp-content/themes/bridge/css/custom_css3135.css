@@ -64,11 +64,11 @@
 }
 
 .qode_video_box .qode_video_image .qode_video_box_button {
-    background-color: #ffe522;
+    background-color: #00A896;
 }
 
 .qode_video_box .qode_video_image:hover .qode_video_box_button {
-    background-color: #ffe947;
+    background-color: #00A896;
 }
 
 nav.main_menu > ul > li.active > a > span:not(.plus) {
@@ -77,7 +77,8 @@ nav.main_menu > ul > li.active > a > span:not(.plus) {
     vertical-align: middle;
     padding: 11px 23px;
     border-radius: 0;
-    background-color: #ffe522;
+    background-color: #00A896;
+    color: #fff;
 }
 
 header:not(.with_hover_bg_color) nav.main_menu > ul > li:hover > a {
@@ -180,8 +181,8 @@ header .header_top .q_social_icon_holder {
 }
 
 .qode-np-item p {
-    color: #ffffff;
-    padding-top: 1.5em;
+    color:#ffffff;
+    padding-top: 1em;
 }
 
 .testimonial_content_inner .testimonials_c_holder .testimonial_content_inner {
