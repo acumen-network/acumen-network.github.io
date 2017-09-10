@@ -176,14 +176,26 @@ header .header_top .q_social_icon_holder {
 }
 
 #fp-nav.right ul li a span {
-    background: #ffe522;
+    background: #00A896;
 }
 
 .qode-np-item p {
-    color:#ffffff;
+    color: #ffffff;
     padding-top: 1.5em;
 }
 
 .testimonial_content_inner .testimonials_c_holder .testimonial_content_inner {
     background-color: transparent;
+}
+
+.testimonials_holder.light .flex-direction-nav a {
+    border-color: #00A896 !important;
+}
+
+.testimonials_holder.light .flex-direction-nav a:before {
+    color: #00A896 !important;
+}
+
+.testimonials_holder.light .flex-direction-nav a:hover {
+    background-color: #ffffff !important;
 }
