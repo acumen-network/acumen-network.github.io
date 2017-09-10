@@ -170,3 +170,11 @@ header .header_top .q_social_icon_holder {
         margin-bottom: 0;
     }
 }
+
+#fp-nav.right {
+    z-index: 1000;
+}
+
+#fp-nav.right ul li a span {
+    background: #ffe522;
+}
