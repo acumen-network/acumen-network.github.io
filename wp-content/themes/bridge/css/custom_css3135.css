@@ -178,3 +178,7 @@ header .header_top .q_social_icon_holder {
 #fp-nav.right ul li a span {
     background: #ffe522;
 }
+
+.fp-tableCell .section_inner_top_margin, .section_inner_top_margin.q_slider_inner {
+    margin-top: 88px;
+}
