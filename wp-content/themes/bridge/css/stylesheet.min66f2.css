@@ -6767,7 +6767,6 @@ article .qode-portfolio-new-badge {
     transition: color .3s ease-in-out, background-color .3s ease-in-out;
     color: #303030;
     font-weight: 600;
-    text-transform: uppercase;
     letter-spacing: 1px
 }
 
@@ -6928,7 +6927,7 @@ article .qode-portfolio-new-badge {
 }
 
 .q_accordion_holder.accordion div.accordion_content {
-    padding: 0 0 0 63px;
+    padding: 0;
     margin: 0
 }
 
@@ -7185,7 +7184,7 @@ article .qode-portfolio-new-badge {
 }
 
 .testimonials_masonry_holder {
-    padding: 0 17px
+    padding: 0 3%;
 }
 
 .testimonials_masonry_holder .testimonial_content {
