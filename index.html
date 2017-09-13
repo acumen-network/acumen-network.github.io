@@ -38,6 +38,39 @@
     <!--[if lte IE 9]>
     <link rel="stylesheet" type="text/css" href="assets/css/vc_lte_ie9.min.css" media="screen">
     <![endif]-->
+    <!--[if IE]>
+    <style>
+        #section2, #section3, #section4, #section5,
+        #section6, #section7, #section8 {
+            background-color: #f4f4f4 !important;
+            z-index: 1000 !important;
+        }
+        nav.right.main_menu {
+            height: 88px !important;
+        }
+        nav.main_menu > ul > li.active > a > span:not(.plus) {
+            padding-top: 0;
+            padding-bottom: 0;
+        }
+    </style>
+    <![endif]-->
+    <style type="text/css">
+        /*IE 10 and above versions*/
+        @media screen and (-ms-high-contrast: active), screen and (-ms-high-contrast: none) {
+            #section2, #section3, #section4, #section5,
+            #section6, #section7, #section8 {
+                background-color: #f4f4f4 !important;
+                z-index: 1000 !important;
+            }
+            nav.right.main_menu {
+                height: 88px !important;
+            }
+            nav.main_menu > ul > li.active > a > span:not(.plus) {
+                padding-top: 0;
+                padding-bottom: 0;
+            }
+        }
+    </style>
     <style type="text/css" data-type="vc_custom-css">
         @media only screen and (max-width: 1024px) {
             .carousel.advanced_responsiveness .carousel-control {
@@ -75,6 +108,7 @@
         .accordion_content_inner .wpb_wrapper {
             margin-left: 0 !important;
         }
+
     </style>
 </head>
 
@@ -103,11 +137,11 @@
                                     <div class="logo_wrapper">
                                         <div class="q_logo" style="opacity: 0.8;">
                                             <a itemprop="url" href="#presentation">
-                                                <img itemprop="image" class="normal" src="assets/images/dark_logo_transparent.svg" alt="Logo Acumen Networks"/>
-                                                <img itemprop="image" class="light" src="assets/images/dark_logo_transparent.svg" alt="Logo Acumen Networks"/>
-                                                <img itemprop="image" class="dark" src="assets/images/dark_logo_transparent.svg" alt="Logo Acumen Networks"/>
-                                                <img itemprop="image" class="sticky" src="assets/images/dark_logo_transparent.svg" alt="Logo Acumen Networks"/>
-                                                <img itemprop="image" class="mobile" src="assets/images/dark_logo_transparent.svg" alt="Logo Acumen Networks"/>
+                                                <img itemprop="image" class="normal" src="assets/images/logo.png" alt="Logo Acumen Networks"/>
+                                                <img itemprop="image" class="light" src="assets/images/logo.png" alt="Logo Acumen Networks"/>
+                                                <img itemprop="image" class="dark" src="assets/images/logo.png" alt="Logo Acumen Networks"/>
+                                                <img itemprop="image" class="sticky" src="assets/images/logo.png" alt="Logo Acumen Networks"/>
+                                                <img itemprop="image" class="mobile" src="assets/images/logo.png" alt="Logo Acumen Networks"/>
                                             </a>
                                         </div>
                                     </div>
@@ -1719,13 +1753,13 @@
 <script>
     jQuery(document).ready(function () {
         jQuery('#fullPage').fullpage({
-                                         responsiveWidth: 1024,
-                                         menu: '.full_page_menu',
-                                         verticalCentered: true,
-                                         bigSectionsDestination: 'top',
-                                         navigation: true,
-                                         navigationPosition: 'right',
-                                     });
+            responsiveWidth: 1024,
+            menu: '.full_page_menu',
+            verticalCentered: true,
+            bigSectionsDestination: 'top',
+            navigation: true,
+            navigationPosition: 'right',
+        });
     });
 </script>
 <script type='text/javascript' src='wp-content/themes/bridge/js/default.min66f2.js?ver=4.7.5'></script>
