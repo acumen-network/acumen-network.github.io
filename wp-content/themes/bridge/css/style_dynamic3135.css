@@ -369,7 +369,7 @@ nav.main_menu > ul > li > a {
 
 nav.main_menu > ul > li > a {
     color: #8f8f8f;
-    font-size: 15px;
+    font-size: 14px;
     font-style: normal;
     font-weight: 700;
     letter-spacing: 0px;
@@ -377,7 +377,7 @@ nav.main_menu > ul > li > a {
 }
 
 nav.main_menu > ul > li > a {
-    padding: 0 18px;
+    padding: 0 17px;
 }
 
 header.transparent .drop_down .second:not(.right) {
