@@ -16400,6 +16400,9 @@ aside #lang_sel img.iclflag, aside #lang_sel_click img.iclflag, footer #lang_sel
     .carousel:not(.advanced_responsiveness) .carousel-inner h2 span {
         font-size: .525em !important
     }
+    #section6 div.vc_column_container {
+        margin-top:35px;
+    }
 }
 
 @media (max-width: 480px) {
