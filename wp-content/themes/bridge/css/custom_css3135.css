@@ -201,9 +201,12 @@ header .header_top .q_social_icon_holder {
     background-color: #ffffff !important;
 }
 
-.qode-accordion-holder .qode-title-holder.ui-state-active, .qode-accordion-holder .qode-title-holder:hover,
-.section_inner .qode-np-item span.qode-np-item-number, .qode-accordion-content-inner {
+.qode-accordion-holder .qode-title-holder.ui-state-active, .section_inner .qode-np-item span.qode-np-item-number {
     background-color: #00A896 !important;
+}
+
+.qode-accordion-holder .qode-title-holder:hover, .qode-accordion-content-inner {
+    background-color: rgba(0, 168, 150, .8) !important;
 }
 
 .section_inner .qode-np-item span.qode-np-item-number {
@@ -211,10 +214,29 @@ header .header_top .q_social_icon_holder {
 }
 
 .qode-accordion-content-inner {
-    opacity: 0.6;
     padding: 19px 25px 39px 40px; ;
 }
 
 .qode-accordion-content {
     padding: 0 !important;
+}
+
+.qode-accordion-content-inner p span span {
+    color: #ffffff !important;
+}
+
+.qode-numbered-process-holder.qodef-np-padding-medium .qode-np-item {
+    width: 27%;
+}
+
+.qode-np-item-image-inner {
+    background-color: rgba(0, 0, 0, .8) !important;
+}
+
+.testimonial_text_holder {
+    text-align: left;
+}
+
+.testimonial_text_holder p {
+    padding-top: 1em;
 }
