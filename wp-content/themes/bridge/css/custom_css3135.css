@@ -182,7 +182,7 @@ header .header_top .q_social_icon_holder {
 
 .qode-np-item p {
     color: #ffffff;
-    padding-top: 1em;
+    padding-top: 0.8em;
 }
 
 .testimonial_content_inner .testimonials_c_holder .testimonial_content_inner {
@@ -226,7 +226,7 @@ header .header_top .q_social_icon_holder {
 }
 
 .qode-numbered-process-holder.qodef-np-padding-medium .qode-np-item {
-    width: 27%;
+    padding: 0 45px;
 }
 
 .qode-np-item-image-inner {
@@ -237,6 +237,58 @@ header .header_top .q_social_icon_holder {
     text-align: left;
 }
 
+.testimonial_text_holder p:last-child {
+    padding-top: .5em;
+}
+
+/*IE 10 and above versions*/
+@media screen and (-ms-high-contrast: active), screen and (-ms-high-contrast: none) {
+    #section1, #section2, #section3, #section4,
+    #section5, #section6, #section7, #section8 {
+        background-color: #f4f4f4 !important;
+        z-index: 1000 !important;
+    }
+    nav.right.main_menu {
+        height: 88px !important;
+    }
+    nav.main_menu > ul > li.active > a > span:not(.plus) {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+}
+/*IE 10 and above versions fin*/
+
+@media only screen and (max-width: 1024px) {
+    .carousel.advanced_responsiveness .carousel-control {
+        display: none;
+    }
+}
+
+.vc_custom_1481557056628 {
+    padding-bottom: 19px !important;
+}
+
+.vc_custom_1481556947144 {
+    padding-bottom: 103px !important;
+    padding-top: 2%;
+}
+div.section {
+    padding-top: 88px;
+}
+.wpb_text_column.wpb_content_element .wpb_wrapper {
+    margin: 0 5%;
+}
+#section6 .fp-tableCell {
+    height: 100% !important;
+}
+div.animated.infinite.bounce {
+    -moz-animation-duration: 3s;
+    -webkit-animation-duration: 3s;
+    animation-duration: 3s;
+}
+.accordion_content_inner .wpb_wrapper {
+    margin-left: 0 !important;
+}
 .testimonial_text_holder p {
-    padding-top: 1em;
+    font-size: 15px;
 }
