@@ -292,3 +292,15 @@ div.animated.infinite.bounce {
 .testimonial_text_holder p {
     font-size: 15px;
 }
+.q_logo a {
+    /*height:63px !important;*/
+}
+
+span.motto {
+    font-family: 'Catamaran',sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    top: -12px;
+    color: #222;
+    position: relative;
+}
