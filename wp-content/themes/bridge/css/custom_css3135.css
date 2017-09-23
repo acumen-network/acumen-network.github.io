@@ -305,7 +305,7 @@ span.motto {
     position: relative;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 1024px) {
     span.motto {
         top: inherit;
         bottom: 0px;
