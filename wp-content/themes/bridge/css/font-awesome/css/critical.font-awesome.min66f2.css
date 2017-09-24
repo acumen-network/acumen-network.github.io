@@ -1,0 +1,75 @@
+@font-face {
+    font-family: 'FontAwesome';
+    src: url('../fonts/fontawesome-webfont3e6e.eot?v=4.7.0');
+    src: url('../fonts/fontawesome-webfontd41d.eot?#iefix&v=4.7.0') format('embedded-opentype'),url('../fonts/fontawesome-webfont3e6e.html?v=4.7.0') format('woff2'),url('../fonts/fontawesome-webfont3e6e.woff?v=4.7.0') format('woff'),url('../fonts/fontawesome-webfont3e6e-2.html?v=4.7.0') format('truetype'),url('../fonts/fontawesome-webfont3e6e.svg?v=4.7.0#fontawesomeregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-lg {
+    font-size: 1.33333333em;
+    line-height: .75em;
+    vertical-align: -15%;
+}
+
+.fa-3x {
+    font-size: 3em;
+}
+
+.fa-stack {
+    position: relative;
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    line-height: 2em;
+    vertical-align: middle;
+}
+
+.fa-stack-1x,
+.fa-stack-2x {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.fa-stack-1x {
+    line-height: inherit;
+}
+
+.fa-stack-2x {
+    font-size: 2em;
+}
+
+.fa-arrow-up:before {
+    content: "\f062";
+}
+
+.fa-bars:before {
+    content: "\f0c9";
+}
+
+.fa-angle-left:before {
+    content: "\f104";
+}
+
+.fa-angle-right:before {
+    content: "\f105";
+}
+
+.fa-angle-down:before {
+    content: "\f107";
+}
+
+.fa-circle:before {
+    content: "\f111";
+}

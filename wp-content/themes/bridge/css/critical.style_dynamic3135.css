@@ -1,0 +1,247 @@
+.logo_wrapper,
+.side_menu_button {
+    height: 88px;
+}
+
+h2,
+h3,
+h4,
+nav.main_menu>ul>li>a {
+    font-style: normal;
+}
+
+.q_font_awsome_icon_stack .fa-circle,
+nav.mobile_menu ul li.active>a {
+    color: #023368;
+}
+
+.qbutton.green {
+    border-color: #023368;
+}
+
+.qbutton.green {
+    background-color: #023368;
+}
+
+.ajax_loader .pulse,
+.ajax_loader .two_rotating_circles .dot1,
+.ajax_loader .two_rotating_circles .dot2 {
+    background-color: #023368;
+}
+
+body {
+    font-family: Catamaran,sans-serif;
+    color: #646464;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.content,
+.wrapper,
+body {
+    background-color: #f4f4f4;
+}
+
+.header_bottom {
+    background-color: rgba(255,255,255,1);
+}
+
+.content {
+    margin-top: 0;
+}
+
+nav.main_menu>ul>li>a {
+    line-height: 88px;
+    color: #8f8f8f;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 0;
+    text-transform: none;
+    padding: 0 17px;
+}
+
+nav.main_menu ul li.active a {
+    color: #2a2a2a;
+}
+
+nav.mobile_menu ul li a {
+    color: #8f8f8f;
+    font-size: 18px;
+    line-height: 29px;
+    font-style: normal;
+    font-weight: 700;
+    text-transform: none;
+}
+
+h2 {
+    font-size: 71px;
+    font-weight: 700;
+    letter-spacing: 0;
+}
+
+nav.mobile_menu ul li.active>a,
+nav.mobile_menu ul li.current-menu-item>a {
+    color: #2a2a2a;
+}
+
+h2 {
+    color: #023368;
+    line-height: 70px;
+    text-transform: none;
+}
+
+h3 {
+    color: #232527;
+    font-size: 30px;
+    line-height: 39px;
+    font-weight: 700;
+    letter-spacing: 0;
+    text-transform: none;
+}
+
+h4 {
+    color: #414141;
+    font-size: 25px;
+    line-height: 35px;
+    font-weight: 300;
+    letter-spacing: 0;
+    text-transform: none;
+}
+
+h5 {
+    color: #232527;
+    font-size: 20px;
+    line-height: 27px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    text-transform: none;
+    padding-bottom: 10px;
+}
+
+h6,
+p {
+    line-height: 24px;
+    font-style: normal;
+}
+
+h6 {
+    color: #232527;
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: 0;
+    text-transform: none;
+}
+
+p {
+    color: #646464;
+}
+
+p {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.qbutton {
+    color: #2a2a2a;
+    font-size: 15px;
+    line-height: 55px;
+    height: 55px;
+    font-style: normal;
+    font-weight: 500;
+    background-color: #ffe522;
+    border-radius: 0;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+    letter-spacing: 0;
+    text-transform: none;
+    border-width: 0;
+    padding-left: 29px;
+    padding-right: 29px;
+}
+
+.qbutton.white {
+    color: #2a2a2a;
+    background-color: #fff;
+}
+
+.mobile_menu_button span {
+    color: #8f8f8f;
+    font-size: 21px;
+}
+
+@media only screen and (min-width:480px) and (max-width:768px) {
+    .carousel-inner>.item,
+    .q_slider .carousel,
+    .qode_slider_preloader {
+        height: 600px!important;
+    }
+}
+
+@media only screen and (max-width:480px) {
+    .carousel-inner>.item,
+    .q_slider .carousel,
+    .qode_slider_preloader {
+        height: 420px!important;
+    }
+}
+
+.carousel-inner .slider_content .text .qbutton:not(.white) {
+    color: #fff!important;
+    background-color: #00A896!important;
+}
+
+.carousel-inner .slider_content .text .qbutton.white {
+    color: #2a2a2a!important;
+    background-color: #fff!important;
+}
+
+#back_to_top span i {
+    color: #023368;
+}
+
+#back_to_top span {
+    background-color: rgba(255,255,255,.6);
+    border-color: rgba(255,255,255,1);
+    border-width: 0;
+    border-style: solid;
+}
+
+.carousel-control .next_nav,
+.carousel-control .prev_nav {
+    background-color: rgba(255,255,255,1);
+    border-color: rgba(255,255,255,1);
+}
+
+.q_slider .carousel-control {
+    width: 5%;
+}
+
+.carousel-control .next_nav,
+.carousel-control .prev_nav {
+    width: 38px;
+    height: 38px;
+    margin-top: 0;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+    line-height: 38px;
+    opacity: 1;
+    border-style: solid;
+}
+
+.carousel-control .next_nav i,
+.carousel-control .prev_nav i {
+    line-height: 38px;
+    color: rgba(2,51,104,1);
+}
+
+.carousel-control .prev_nav {
+    left: 15px;
+}
+
+.carousel-control .next_nav {
+    right: 15px;
+}

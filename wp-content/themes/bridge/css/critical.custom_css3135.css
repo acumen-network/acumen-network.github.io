@@ -1,0 +1,87 @@
+nav.main_menu>ul>li.active>a>span:not(.plus) {
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 11px 23px;
+    border-radius: 0;
+    background-color: #00A896;
+    color: #fff;
+}
+
+nav.main_menu ul li.active a {
+    padding: 0;
+}
+
+.carousel-inner p {
+    margin: 0 0 4px;
+}
+
+.carousel-inner .slider_content .text .qbutton.white {
+    margin-left: 8px;
+}
+
+.qode-accordion-content-inner {
+    background-color: rgba(0,168,150,.8)!important;
+}
+
+.qode-accordion-content-inner {
+    padding: 19px 25px 39px 40px;
+}
+
+.qode-accordion-content {
+    padding: 0!important;
+}
+
+@media screen and (-ms-high-contrast:active),screen and (-ms-high-contrast:none) {
+    #section1,
+    #section2 {
+        background-color: #f4f4f4!important;
+        z-index: 1000!important;
+    }
+
+    nav.right.main_menu {
+        height: 88px!important;
+    }
+
+    nav.main_menu>ul>li.active>a>span:not(.plus) {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+}
+
+div.section {
+    padding-top: 88px;
+}
+
+.wpb_text_column.wpb_content_element .wpb_wrapper {
+    margin: 0 5%;
+}
+
+div.animated.infinite.bounce {
+    -moz-animation-duration: 3s;
+    -webkit-animation-duration: 3s;
+    animation-duration: 3s;
+}
+
+span.motto {
+    font-family: Catamaran,sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    top: -12px;
+    color: #222;
+    position: relative;
+}
+
+@media only screen and (max-width:1024px) {
+    .carousel.advanced_responsiveness .carousel-control {
+        display: none;
+    }
+
+    span.motto {
+        top: inherit;
+        bottom: 0;
+        position: absolute;
+        left: -52%;
+        width: 300px;
+    }
+}
