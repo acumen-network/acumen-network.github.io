@@ -29,6 +29,42 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <script type="text/javascript" src="wp-includes/js/jquery/jqueryb8ff.js?ver=1.12.4"></script>
     <script type="text/javascript" src="wp-includes/js/jquery/jquery-migrate.min330a.js?ver=1.4.1"></script>
+    <script type="text/javascript">
+        function methodologie() {
+            document.getElementById("menuExpertiseButton").setAttribute("data-menuanchor", "methodologie");
+        }
+
+        function offreDeServices() {
+            document.getElementById("menuExpertiseButton").setAttribute("data-menuanchor", "offreDeServices");
+        }
+
+        function positionnementMetier() {
+            document.getElementById("menuExpertiseButton").setAttribute("data-menuanchor", "positionnementMetier");
+        }
+
+        function cartographie() {
+            document.getElementById("menuExpertiseButton").setAttribute("data-menuanchor", "cartographie");
+        }
+
+        function partenaires() {
+            document.getElementById("menuExpertiseButton").setAttribute("data-menuanchor", "partenaires");
+        }
+
+
+        //Actulité menu
+        function projets() {
+            document.getElementById("menuActualiteButton").setAttribute("data-menuanchor", "projets");
+        }
+          
+        function noteExpert() {
+            document.getElementById("menuActualiteButton").setAttribute("data-menuanchor", "noteExpert");
+        }
+
+        function actualite() {
+            document.getElementById("menuActualiteButton").setAttribute("data-menuanchor", "actualite");
+        }
+
+    </script>
     <!--[if lte IE 9]>
     <link rel="stylesheet" type="text/css" href="assets/css/vc_lte_ie9.min.css" media="screen">
     <![endif]-->
@@ -103,37 +139,36 @@
                                             <a href="#identite"><span>Identit&egrave;</span></a>
                                         </li>
 
-                                        <li 
-                                          class="menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-15254 current_page_item narrow">
+                                        <li id="menuExpertiseButton" data-menuanchor="test" class="menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-15254 current_page_item narrow">
                                             <a class="dropdown-toggle" href="#methodologie" data-toggle="dropdown"><span>Expertises <i class="fa fa-caret-down" style="margin-left: 5px; font-size: 20px;"></i> </span></a>
                                              <div class="second">
                                                  <div class="inner">
                                             <ul>
                                                
-                                               <li data-menuanchor="methodologie" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="#methodologie" class=""><i class="menu_icon fa blank"></i><span>Méthodologie</span><span class="plus"></span></a></li>
+                                               <li data-menuanchor="methodologie" class="menu-item menu-item-type-post_type menu-item-object-page "><a onclick="methodologie()" href="#methodologie" class=""><i class="menu_icon fa blank"></i><span>Méthodologie</span><span class="plus"></span></a></li>
 
-                                                 <li data-menuanchor="offreDeServices" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="#offreDeServices" class=""><i class="menu_icon fa blank"></i><span>Offre de services</span><span class="plus"></span></a></li>
+                                                 <li data-menuanchor="offreDeServices" class="menu-item menu-item-type-post_type menu-item-object-page "><a onclick="offreDeServices()" href="#offreDeServices" class=""><i class="menu_icon fa blank"></i><span>Offre de services</span><span class="plus"></span></a></li>
 
-                                                 <li data-menuachor="positionnementMetier" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="#positionnementMetier" class=""><i class="menu_icon fa blank"></i><span>Positionnement Métier</span><span class="plus"></span></a></li>
+                                                 <li data-menuachor="positionnementMetier" class="menu-item menu-item-type-post_type menu-item-object-page "><a onclick="positionnementMetier()" href="#positionnementMetier" class=""><i class="menu_icon fa blank"></i><span>Positionnement Métier</span><span class="plus"></span></a></li>
+                                                 
+                                                 <li data-menuachor="cartographie" class="menu-item menu-item-type-post_type menu-item-object-page "><a onclick="cartographie()" href="#cartographie" class=""><i class="menu_icon fa blank"></i><span>Cartographie des compétences</span><span class="plus"></span></a></li>
 
-                                                 <li data-menuachor="cartographie" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="#cartographie" class=""><i class="menu_icon fa blank"></i><span>Cartographie des compétences</span><span class="plus"></span></a></li>
-
-                                                 <li data-menuachor="partenaires" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="#partenaires" class=""><i class="menu_icon fa blank"></i><span>Partenaires</span><span class="plus"></span></a></li>
+                                                 <li data-menuachor="partenaires" class="menu-item menu-item-type-post_type menu-item-object-page "><a onclick="partenaires()" href="#partenaires" class=""><i class="menu_icon fa blank"></i><span>Partenaires</span><span class="plus"></span></a></li>
                                             </ul>
                                         </div></div>
                                         </li>
 
-                                        <li 
+                                        <li id="menuActualiteButton" data-menuanchor="test"
                                           class="menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-15254 current_page_item narrow">
                                             <a class="dropdown-toggle" href="#" data-toggle="dropdown"><span>Actualités <i class="fa fa-caret-down" style="margin-left: 5px; font-size: 20px;"></i></span></a>
                                             <div class="second">
                                                 <div class="inner">
                                                     <ul>  
-                                                        <li datamenuachor="projets" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="#projets" class=""><i class="menu_icon fa blank"></i><span>Projets</span><span class="plus"></span></a></li>
-                                                    
-                                                        <li datamenuachor="noteExpert" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="#noteExpert" class=""><i class="menu_icon fa blank"></i><span>Notes d'experts</span><span class="plus"></span></a></li>
+                                                        <li datamenuachor="projets" class="menu-item menu-item-type-post_type menu-item-object-page "><a onclick="projets()" href="#projets" class=""><i class="menu_icon fa blank"></i><span>Projets</span><span class="plus"></span></a></li>
+                                                        
+                                                        <li datamenuachor="noteExpert" class="menu-item menu-item-type-post_type menu-item-object-page "><a onclick="noteExpert()" href="#noteExpert" class=""><i class="menu_icon fa blank"></i><span>Notes d'experts</span><span class="plus"></span></a></li>
 
-                                                        <li data-menuanchor="actualite" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="#actualite" class=""><i class="menu_icon fa blank"></i><span>Evèmenents</span><span class="plus"></span></a></li>
+                                                        <li data-menuanchor="actualite" class="menu-item menu-item-type-post_type menu-item-object-page "><a onclick="actualite()" href="#actualite" class=""><i class="menu_icon fa blank"></i><span>Evèmenents</span><span class="plus"></span></a></li>
                                                     </ul>
                                                 </div>
                                             </div>
@@ -263,7 +298,7 @@
                                                             <p class="q_slide_text" style="text-shadow:none;">
                                                                 <span></span>
                                                             </p>
-                                                            <a itemprop="url" class="qbutton green default" href="#services">Nos Services</a>
+                                                            <a itemprop="url" class="qbutton green default" href="#offreDeServices">Nos Services</a>
                                                             <a itemprop="url" class="qbutton white default" href="#contact">Contactez-nous</a>
                                                         </div>
                                                     </div>
@@ -289,7 +324,7 @@
                                                             <p class="q_slide_text" style="text-shadow: none;">
                                                                 <span></span>
                                                             </p>
-                                                            <a itemprop="url" class="qbutton green default" href="#services">Nos Services</a>
+                                                            <a itemprop="url" class="qbutton green default" href="#offreDeServices">Nos Services</a>
                                                             <a itemprop="url" class="qbutton white default" href="#contact">Contactez-nous</a>
                                                         </div>
                                                     </div>
@@ -320,7 +355,7 @@
                                                             <p class="q_slide_text" style="text-shadow: none;">
                                                                 <span></span>
                                                             </p>
-                                                            <a itemprop="url" class="qbutton green default" href="#services">Nos Services</a>
+                                                            <a itemprop="url" class="qbutton green default" href="#offreDeServices">Nos Services</a>
                                                             <a itemprop="url" class="qbutton white default" href="#contact">Contactez-nous</a>
                                                         </div>
                                                     </div>
@@ -349,7 +384,7 @@
                                                                 </h4>
                                                             </div>
                                                             <p class="q_slide_text" style="text-shadow: none;"><span></span></p>
-                                                            <a itemprop="url" class="qbutton green default" href="#services">Nos Services</a>
+                                                            <a itemprop="url" class="qbutton green default" href="#offreDeServices">Nos Services</a>
                                                             <a itemprop="url" class="qbutton white default" href="#contact">Contactez-nous</a>
                                                         </div>
                                                     </div>
@@ -364,7 +399,7 @@
                                                            style="width:100%; position:relative; left:0%;">
                                                           <div class="text one_by_one subtitle_bellow_title no_separator">
                                                               <p class="q_slide_text" style="text-shadow: none;"><span></span></p>
-                                                              <a itemprop="url" class="qbutton green default" href="#services">D&egrave;couvrez notre actualité</a>
+                                                              <a itemprop="url" class="qbutton green default" href="#actualite">D&egrave;couvrez notre actualité</a>
                                                               <a itemprop="url" class="qbutton white default" href="#projets">Nos projets</a>
                                                           </div>
                                                       </div>
@@ -669,6 +704,66 @@
                                                                  data-pause-on-hover="false" data-drag="true">
                                                                 <div class="qode_content_slider_inner">
                                                                     <div class="qode_content_slider_item">
+                                                                                <div class="vc_row wpb_row vc_row-fluid vc_inner" style="text-align:left;">
+                                                                                    <div class=" full_section_inner clearfix">
+                                                                                        <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-4 vc_col-md-12 vc_col-xs-12">
+                                                                                            <div class="vc_column-inner ">
+                                                                                                <div class="wpb_wrapper">
+                                                                                                    <div class="vc_empty_space" style="height: 7px">
+                                                                                                        <span class="vc_empty_space_inner">
+                                                                                                            <span class="empty_space_image"></span>
+                                                                                                        </span>
+                                                                                                    </div>
+                                                                                                    <div class="wpb_text_column wpb_content_element ">
+                                                                                                        <div class="wpb_wrapper">
+                                                                                                            <h2>	Expertise Projets IT</h2>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                    <div class="vc_empty_space" style="height: 21px">
+                                                                                                        <span class="vc_empty_space_inner">
+                                                                                                            <span class="empty_space_image"></span>
+                                                                                                        </span>
+                                                                                                    </div>
+                                                                                                    <div class="wpb_text_column wpb_content_element ">
+                                                                                                        <div class="wpb_wrapper">
+                                                                                                            <p> Nous <b>accompagnons</b> vos <b>projets d&rsquo;impl&eacute;mentation</b> &agrave; travers
+                                                                                                            <b>un conseil et des actions concr&egrave;tes</b>.
+                                                                                                            <br>
+                                                                                                             Direction de projet / M&eacute;thodologies de projets / MOA /
+                                                                                                            Conception /Gestion de ressources / Impl&eacute;mentation /
+                                                                                                            Documentation</p>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                    <div class="vc_empty_space" style="height: 40px">
+                                                                                                        <span class="vc_empty_space_inner">
+                                                                                                            <span class="empty_space_image"></span>
+                                                                                                        </span>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                        <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-8 vc_col-md-12 vc_col-xs-12">
+                                                                                            <div class="vc_column-inner ">
+                                                                                                <div class="wpb_wrapper">
+                                                                                                    <div class="wpb_single_image wpb_content_element vc_align_center">
+                                                                                                        <div class="wpb_wrapper">
+                                                                                                            <div class="vc_single_image-wrapper vc_box_border_grey">
+                                                                                                                <img width="856" height="200" src="assets/images/expertiseIT.png"
+                                                                                                                     class="vc_single_image-img attachment-full" alt="logo"
+                                                                                                                     srcset="assets/images/expertiseIT.png 856w, assets/images/expertiseIT.png 300w, assets/images/expertiseIT.png 768w, assets/images/expertiseIT.png 700w" sizes="(max-width: 856px) 100vw, 856px"/>
+                                                                                                           </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                    <div class="vc_empty_space" style="height:40px">
+                                                                                                        <span class="vc_empty_space_inner"> <span class="empty_space_image"></span> </span>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                    </div>
+                                                                    <div class="qode_content_slider_item">
                                                                         <div class="vc_row wpb_row vc_row-fluid vc_inner" style="text-align:left;">
                                                                             <div class="full_section_inner clearfix">
                                                                                 <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-4 vc_col-md-12 vc_col-xs-12">
@@ -712,73 +807,13 @@
                                                                                             <div class="wpb_single_image wpb_content_element vc_align_center">
                                                                                                 <div class="wpb_wrapper">
                                                                                                     <div class="vc_single_image-wrapper vc_box_border_grey">
-                                                                                                        <img width="856" height="200" src="assets/images/accordion-1.jpg"
+                                                                                                        <img width="856" height="200" src="assets/images/expertiseBusiness.jpeg"
                                                                                                              class="vc_single_image-img attachment-full" alt="logo"
-                                                                                                             srcset="assets/images/accordion-1.jpg 856w, assets/images/accordion-1.jpg 300w, assets/images/accordion-1.jpg 768w, assets/images/accordion-1.jpg 700w" sizes="(max-width: 856px) 100vw, 856px"/>
+                                                                                                             srcset="assets/images/expertiseBusiness.jpeg 856w, assets/images/expertiseBusiness.jpeg 300w, assets/images/expertiseBusiness.jpeg 768w, assets/images/expertiseBusiness.jpeg 700w" sizes="(max-width: 856px) 100vw, 856px"/>
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                             <div class="vc_empty_space" style="height: 40px">
-                                                                                                <span class="vc_empty_space_inner"> <span class="empty_space_image"></span> </span>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="qode_content_slider_item">
-                                                                        <div class="vc_row wpb_row vc_row-fluid vc_inner" style="text-align:left;">
-                                                                            <div class=" full_section_inner clearfix">
-                                                                                <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-4 vc_col-md-12 vc_col-xs-12">
-                                                                                    <div class="vc_column-inner ">
-                                                                                        <div class="wpb_wrapper">
-                                                                                            <div class="vc_empty_space" style="height: 7px">
-                                                                                                <span class="vc_empty_space_inner">
-                                                                                                    <span class="empty_space_image"></span>
-                                                                                                </span>
-                                                                                            </div>
-                                                                                            <div class="wpb_text_column wpb_content_element ">
-                                                                                                <div class="wpb_wrapper">
-                                                                                                    <h2>	Expertise Projets IT</h2>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                            <div class="vc_empty_space" style="height: 21px">
-                                                                                                <span class="vc_empty_space_inner">
-                                                                                                    <span class="empty_space_image"></span>
-                                                                                                </span>
-                                                                                            </div>
-                                                                                            <div class="wpb_text_column wpb_content_element ">
-                                                                                                <div class="wpb_wrapper">
-                                                                                                    <p> Nous <b>accompagnons</b> vos <b>projets d&rsquo;impl&eacute;mentation</b> &agrave; travers
-                                                                                                    <b>un conseil et des actions concr&egrave;tes</b>.
-                                                                                                    <br>
-                                                                                                     Direction de projet / M&eacute;thodologies de projets / MOA /
-                                                                                                    Conception /Gestion de ressources / Impl&eacute;mentation /
-                                                                                                    Documentation</p>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                            <div class="vc_empty_space" style="height: 40px">
-                                                                                                <span class="vc_empty_space_inner">
-                                                                                                    <span class="empty_space_image"></span>
-                                                                                                </span>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-8 vc_col-md-12 vc_col-xs-12">
-                                                                                    <div class="vc_column-inner ">
-                                                                                        <div class="wpb_wrapper">
-                                                                                            <div class="wpb_single_image wpb_content_element vc_align_center">
-                                                                                                <div class="wpb_wrapper">
-                                                                                                    <div class="vc_single_image-wrapper vc_box_border_grey">
-                                                                                                        <img width="856" height="200" src="assets/images/accordion-2.jpg"
-                                                                                                             class="vc_single_image-img attachment-full" alt="logo"
-                                                                                                             srcset="assets/images/accordion-2.jpg 856w, assets/images/accordion-2.jpg 300w, assets/images/accordion-2.jpg 768w, assets/images/accordion-2.jpg 700w" sizes="(max-width: 856px) 100vw, 856px"/>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                            <div class="vc_empty_space" style="height:40px">
                                                                                                 <span class="vc_empty_space_inner"> <span class="empty_space_image"></span> </span>
                                                                                             </div>
                                                                                         </div>
@@ -830,7 +865,7 @@
                                                                                                 <div class="wpb_wrapper">
                                                                                                     <div class="vc_single_image-wrapper vc_box_border_grey">
                                                                                                         <img width="856" height="373"
-                                                                                                             src="assets/images/organismes.jpg" class="vc_single_image-img attachment-full" alt="logo" srcset="assets/images/organismes.jpg 856w, assets/images/organismes-300x131.jpg 300w, assets/images/organismes-768x335.jpg 768w, assets/images/organismes-700x305.jpg 700w" sizes="(max-width: 856px) 100vw, 856px"/>
+                                                                                                             src="assets/images/formationCoaching.jpeg" class="vc_single_image-img attachment-full" alt="logo" srcset="assets/images/formationCoaching.jpeg 856w, assets/images/formationCoaching.jpeg 300w, assets/images/organismes-768x335.jpg 768w, assets/images/formationCoaching.jpeg 700w" sizes="(max-width: 856px) 100vw, 856px"/>
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
@@ -892,14 +927,15 @@
                                         <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-4 vc_col-md-4">
                                             <div class="vc_column-inner" style="text-align: center;color: #232527">
                                                 <div class="wpb_wrapper">
-                                                    <div class="vc_empty_space" style="height: 10x">
-                                                        <span class="vc_empty_space_inner">
-                                                            <span class="empty_space_image"></span>
-                                                        </span>
-                                                    </div>
+                                                    
                                                     <div class="wpb_text_column wpb_content_element ">
                                                         <div class="wpb_wrapper">
                                                             <h5 style="text-align:center;color: #232527">Technophiles</h5>
+                                                        </div>
+                                                        <div class="vc_empty_space" style="height: 10x">
+                                                                <span class="vc_empty_space_inner">
+                                                                    <span class="empty_space_image"><img src="assets/images/portfolio-4.jpg"  alt="qode-np-item"/></span>
+                                                                </span>
                                                         </div>
                                                     </div>
                                                     <div class="vc_empty_space" style="height: 18px">
@@ -941,6 +977,11 @@
                                                         <div class="wpb_wrapper">
                                                             <h5 style="color: #232527">Opportunistes</h5>
                                                         </div>
+                                                        <div class="vc_empty_space" style="height: 10x">
+                                                                <span class="vc_empty_space_inner">
+                                                                    <span class="empty_space_image"><img src="assets/images/slide.jpg" alt="qode-np-item"/></span>
+                                                                </span>
+                                                        </div>
                                                     </div>
                                                     <div class="vc_empty_space" style="height: 18px">
                                                         <span class="vc_empty_space_inner">
@@ -980,6 +1021,11 @@
                                                     <div class="wpb_text_column wpb_content_element ">
                                                         <div class="wpb_wrapper">
                                                             <h5 style="color: #232527">Organismes publics</h5>
+                                                        </div>
+                                                        <div class="vc_empty_space" style="height: 10x">
+                                                                <span class="vc_empty_space_inner">
+                                                                    <span class="empty_space_image"><img src="assets/images/organism.jpg" alt="qode-np-item"/></span>
+                                                                </span>
                                                         </div>
                                                     </div>
                                                     <div class="vc_empty_space" style="height: 18px">
