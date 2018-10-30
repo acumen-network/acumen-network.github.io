@@ -300,3 +300,12 @@
   height: auto;
 }
 
+.nav-tabs > li.active > a{
+  color:white!important;
+  cursor: default;
+  background-color:#555!important;
+  border-bottom-color: transparent;
+  font-weight: bold;
+  font-size: 18px;
+}
+
