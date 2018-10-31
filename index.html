@@ -87,6 +87,7 @@
 </head>
 
 <body class="home page page-id-14869 page-template page-template-full_screen page-template-full_screen-php qode-title-hidden qode-theme-ver-6.2.2 wpb-js-composer js-comp-ver-4.3.5 vc_responsive">
+    
 <div class="ajax_loader">
     <div class="ajax_loader_1">
         <div class="two_rotating_circles">
@@ -211,20 +212,10 @@
                                             class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-15254 current_page_item  narrow">
                                             <a href="#clients"><span>Clients</span></a>
                                         </li>
-                                        <!--
-                                        <li data-menuanchor="caspratiques"
-                                            class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-15254 current_page_item  narrow">
-                                            <a href="#caspratiques"><span>Cas Pratiques</span></a>
-                                        </li> -->
                                         <li data-menuanchor="partenaires"
                                             class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-15254 current_page_item  narrow">
                                             <a href="#partenaires"><span>Partenaires</span></a>
                                         </li>
-                                        <!--
-                                        <li data-menuanchor="experts"
-                                            class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-15254 current_page_item  narrow">
-                                            <a href="#experts"><span>Dirigeants</span></a>
-                                        </li> -->
                                         <li data-menuanchor="contact"
                                             class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-15254 current_page_item  narrow">
                                             <a href="#contact"><span>Contact</span></a>
@@ -2224,82 +2215,7 @@
     </div>
 
 </div>
-  <!--  <script>
-
-          // skill coverages
-          var coverageParteners = "parteners"; 
-          var coverageOffice = "office"; 
-          var coverageFutureOffice = "futureOffice";
-          // marker colors
-          var orange = "#FFC000";
-          var yello = "#FFFF00";
-          var red = "#FF0000";
-
-          // create an object containing LatLng and skill coverage for each city.
-          var citymap = {
-            paris: {
-              center:  {lat:48.8588377, lng: 1.7867552},
-              coverage : coverageParteners,
-            },
-            cotonou: {
-              center:{lat:6.3722979, lng: 2.3261374},
-              coverage: coverageOffice
-            },
-            dakar: {
-              center: {lat: 14.7110139, lng: -17.5358658},
-              coverage: coverageParteners
-            },
-            abidjan: {
-              center:  {lat:5.3542453, lng: -4.0651646},
-              coverage: coverageFutureOffice
-            },
-            lome: {
-              center :  {lat:6.1823171, lng:1.1766499} ,
-              coverage : coverageFutureOffice
-            },
-            libreville : {
-              center :  {lat: 0.4112091, lng: 9.2945416},
-              coverage : coverageFutureOffice
-            }
-          };
-
-      function initMap() {
-
-        // map center latlng
-          var mapcenter = {lat: 27.9709589, lng: 28.9268628};
-          // create new Google Map
-          var map = new google.maps.Map(document.getElementById("map"), {
-            zoom: 3,
-            center: mapcenter,
-            draggable : false
-          });
-          var chosenColor = red;
-          for (var city in citymap) {
-          // Add the circle for this city to the map
-         // addCircularMarker(city, red, map);
-
-         if (citymap[city].coverage == coverageParteners ) {
-            chosenColor = orange;
-         } else if (citymap[city].coverage == coverageFutureOffice) {
-            chosenColor = yello;
-         } else { chosenColor = red;}
-
-          var circle = new google.maps.Circle({
-                strokeColor: chosenColor,
-                strokeOpacity: 1,
-                strokeWeight: 2,
-                fillColor: chosenColor,
-                fillOpacity: 0.8,
-                map: map,
-                center: citymap[city].center,
-                radius : 100000
-          });
-          }
-        }
-
-    </script> 
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB3zG-Bp2s2Q_-FGa8F3lwwlo4mxFsOUic&callback=initMap"
-    async defer></script>-->
+ 
 </body>
 
 <script type="text/javascript" src="wp-content/themes/bridge/js/qode-like.min66f2.js?ver=4.7.5"></script>
