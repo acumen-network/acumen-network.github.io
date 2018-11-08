@@ -309,3 +309,15 @@
   font-size: 18px;
 }
 
+.panel-success:hover{
+  border: solid 1px #555!important;
+}
+
+.panel-title{
+  padding-left: 100px!important;
+}
+
+.panel-heading:hover + .panel-collapse {
+  display: block!important;
+}
+
