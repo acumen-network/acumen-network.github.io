@@ -2740,6 +2740,11 @@ Google map
   .alt-features-item {
     margin: 20px 0 0;
   }
+
+  .slideTop{
+    height: 550px!important;
+  }
+
 }
 
 @media (max-width: 1050px) {
@@ -2747,6 +2752,7 @@ Google map
   .navbar-custom {
     letter-spacing: 1px;
   }
+
 }
 
 @media (max-width: 991px) {
@@ -2779,6 +2785,7 @@ Google map
 
 @media (max-width: 767px) {
   /* Navbar */
+  
   .navbar-custom .navbar-nav {
     letter-spacing: 3px;
     margin-top: 1px;
