@@ -175,20 +175,20 @@
                                                         <li data-menuanchor="offreDeServices"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page ">
                                                             <a onclick="offreDeServices()" href="#offreDeServices"
-                                                               class=""><i class="menu_icon fa blank"></i><span>Offre de services et Réalisations</span><span
+                                                               class=""><i class="menu_icon fa blank"></i><span>Offre de services</span><span
                                                                     class="plus"></span></a></li>
 
                                                         <li data-menuachor="positionnementMetier"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page ">
                                                             <a onclick="positionnementMetier()"
                                                                href="#positionnementMetier" class=""><i
-                                                                    class="menu_icon fa blank"></i><span>Positionnement Métier</span><span
+                                                                    class="menu_icon fa blank"></i><span>Cible client</span><span
                                                                     class="plus"></span></a></li>
 
                                                         <li data-menuachor="cartographie"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page ">
                                                             <a onclick="cartographie()" href="#cartographie" class=""><i
-                                                                    class="menu_icon fa blank"></i><span>Cartographie des compétences</span><span
+                                                                    class="menu_icon fa blank"></i><span>Compétences</span><span
                                                                     class="plus"></span></a></li>
 
                                                         <li data-menuachor="partenaires"
@@ -258,15 +258,15 @@
                                         </li>
                                         <li data-menuanchor="offreDeServices"
                                             class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-15254 current_page_item  narrow">
-                                            <a href="#offreDeServices"><span>Offre de services et Réalisations</span></a>
+                                            <a href="#offreDeServices"><span>Offre de services</span></a>
                                         </li>
                                         <li data-menuanchor="positionnementMetier"
                                             class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-15254 current_page_item  narrow">
-                                            <a href="#positionnementMetier"><span>Positionnement M&eacute;tier</span></a>
+                                            <a href="#positionnementMetier"><span>Cible client</span></a>
                                         </li>
                                         <li data-menuanchor="cartographie"
                                             class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-15254 current_page_item  narrow">
-                                            <a href="#cartographie"><span>Cartographie des compétences</span></a>
+                                            <a href="#cartographie"><span>Compétences</span></a>
                                         </li>
                                         <li data-menuanchor="partenaires"
                                             class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-15254 current_page_item  narrow">
@@ -1406,7 +1406,7 @@
                                         <div class="wpb_wrapper">
                                             <div class="wpb_text_column wpb_content_element">
                                                 <div class="wpb_wrapper">
-                                                    <h3>Positionnement Métier</h3>
+                                                    <h3>Cible client</h3>
                                                 </div>
                                             </div>
                                             <div class="separator small center"
@@ -1578,7 +1578,7 @@
                                                         <div class="wpb_text_column wpb_content_element ">
                                                             <div class="wpb_wrapper">
                                                                 <h3 style="text-align: center;">
-                                                                    <span>Cartographie des compétences</span>
+                                                                    <span>Compétences</span>
                                                                 </h3>
                                                             </div>
                                                             <div class="separator small center"
@@ -2664,7 +2664,7 @@
                                         <div class="wpb_text_column wpb_content_element ">
                                             <div class="wpb_wrapper">
                                                 <h3 style="text-align: center;">
-                                                    <span>Equipe</span>
+                                                    <span>Dirigeants</span>
                                                 </h3>
                                             </div>
                                             <div class="separator small center" style="margin-top:5px;margin-bottom:30px;"></div>
@@ -2688,7 +2688,7 @@
                                                                 </div>
                                                                 <div class="testimonial_text_holder">
                                                                     <div class="testimonial_text_inner">
-                                                                        <p style="font-size: 15px">
+                                                                        <p style="font-size: 15px; text-align: justify">
                                                                             Après son diplôme d’ingénieur
                                                                             ECAM-EPMI, Francis a entamé une
                                                                             carrière de consultant dans la
@@ -2698,12 +2698,7 @@
                                                                             projets stratégiques pour les
                                                                             acteurs majeurs du marché
                                                                             européen, il est associé dans la
-                                                                            création de startups dans la
-                                                                            FINTECH. Vous pourrez bénéficier
-                                                                            de sa solide expérience et sa
-                                                                            familiarisation avec les
-                                                                            technologies, les enjeux et les
-                                                                            stratégies de succès. Francis a
+                                                                            création de startups TrustID. Francis a
                                                                             cofondé Acumen Network pour
                                                                             servir son engagement vis-à-vis
                                                                             des technologies et du continent
@@ -2725,29 +2720,10 @@
                                                                 </div>
                                                                 <div class="testimonial_text_holder">
                                                                     <div class="testimonial_text_inner">
-                                                                        <p style="font-size: 15px">
-                                                                            Né au bénin, Yezid a poursuivi
-                                                                            ses études en france et y a
-                                                                            obtenu son diplôme d’ingénieur
-                                                                            en systèmes d’information. Son
-                                                                            expertise a été modelée dans
-                                                                            l’univers de la finance et des
-                                                                            marchés de capitaux à travers
-                                                                            l’europe. Auprès de grands
-                                                                            comptes européens tels que les
-                                                                            banques d’investissement, les
-                                                                            agences de trésor public, les
-                                                                            agences supranationales, Yezid
-                                                                            totalise plus de 10 années
-                                                                            d’expérience sur des projets de
-                                                                            migrations stratégiques, des
-                                                                            projets de nouvelles
-                                                                            implémentations de plateformes
-                                                                            IT. Sa vision et son expertise
-                                                                            sont des atouts majeurs pour le
-                                                                            réseau Acumen, mis à disposition
-                                                                            pour les objectifs de nos
-                                                                            clients.
+                                                                        <p style="font-size: 15px; text-align: justify">
+                                                                        Né au bénin, Yezid a suivi des études d'ingénieur système d'information en france et y a
+                                                                            obtenu son diplôme d’ingénieur en systèmes d’information. Son expertise a été modelée dans l’univers de la finance et des marchés de capitaux à travers l’europe. Auprès de grands comptes européens ( banques d’investissement, les agences de trésor public, les
+                                                                            agences supranationales, ...). Sa vision et son expertise sont des atouts majeurs mis à disposition des objectifs de nos clients.
                                                                         </p>
                                                                     </div>
                                                                 </div>
@@ -2771,7 +2747,7 @@
                                                                     </div>
                                                                     <div class="testimonial_text_holder">
                                                                         <div class="testimonial_text_inner">
-                                                                            <p style="font-size: 15px">
+                                                                            <p style="font-size: 15px; text-align: justify">
                                                                                 Né en Côte-d'Ivoire, Harold a été formé entre le Benin, le Sénégal et la France. Passionné de nouvelles technologies et de réseaux informatique, il obtient son diplôme d’ingénieur généraliste dominante architecture et sécurité des réseaux en France en 2008. Il s’initie aux logiciels libres et acquiert une solide expérience dans l’administration serveur et réseau au cours de sa carrière chez divers opérateurs mobiles majeurs, dans l’enseignement et l’entreprenariat. Sa passion et son expertise sont à la disposition de Acumen pour la satisfaction de sa clientèle. 
                                                                             </p>
                                                                         </div>
@@ -2790,96 +2766,8 @@
                                                                     </div>
                                                                     <div class="testimonial_text_holder">
                                                                         <div class="testimonial_text_inner">
-                                                                            <p style="font-size: 15px">
+                                                                            <p style="font-size: 15px; text-align: justify">
                                                                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras pharetra, libero non porta ornare, eros tellus scelerisque erat, a tincidunt lectus mauris et nunc. In molestie bibendum facilisis. Donec sed vulputate nisi. Vestibulum id sapien ex. Etiam lacinia pharetra ante, sed efficitur ex porttitor nec. Praesent gravida sem sed auctor sagittis. Quisque gravida elementum lorem, sodales sodales enim mattis nec. Nulla in nisl ac erat rhoncus tincidunt. Vestibulum eu ipsum bibendum, congue nibh pellentesque, sollicitudin elit. Nam urna elit, rhoncus ut mollis ac, elementum quis arcu. Cras mollis purus a mattis consequat. Nulla facilisi. Aenean ac rutrum nulla.
-                                                                            </p>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>                                                        
-                                                    </li>
-                                                    
-                                                    <li class="testimonial_content" style="width: 100%; float: left; margin-right: -100%; position: relative; display: block; z-index: 1; opacity: 0; padding: 30px; transition: opacity 0s ease 0s;">
-                                                            <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-6">
-                                                                <div class="testimonial_content_inner">
-                                                                    <div style="text-align: center;">
-                                                                        <p>
-                                                                            <img src="assets/images/img_avatar.png"
-                                                                            style="border-radius: 50%; width: unset;margin: auto;"
-                                                                                alt="Francis Dossou Sognon"
-                                                                                draggable="false">
-                                                                        </p>
-                                                                    </div>
-                                                                    <div class="testimonial_title_holder">
-                                                                        <h5>Fabrice</h5>
-                                                                    </div>
-                                                                    <div class="testimonial_text_holder">
-                                                                        <div class="testimonial_text_inner">
-                                                                            <p style="font-size: 15px">
-                                                                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras pharetra, libero non porta ornare, eros tellus scelerisque erat, a tincidunt lectus mauris et nunc. In molestie bibendum facilisis. Donec sed vulputate nisi. Vestibulum id sapien ex. Etiam lacinia pharetra ante, sed efficitur ex porttitor nec. Praesent gravida sem sed auctor sagittis. Quisque gravida elementum lorem, sodales sodales enim mattis nec. Nulla in nisl ac erat rhoncus tincidunt. Vestibulum eu ipsum bibendum, congue nibh pellentesque, sollicitudin elit. Nam urna elit, rhoncus ut mollis ac, elementum quis arcu. Cras mollis purus a mattis consequat. Nulla facilisi. Aenean ac rutrum nulla. 
-                                                                            </p>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-6">
-                                                                <div class="testimonial_content_inner">
-                                                                    <div >
-                                                                        <img src="assets/images/img_avatar.png"
-                                                                        style="border-radius: 50%; width: unset;margin: auto;"
-                                                                                alt="Yezid Salami" draggable="false">
-                                                                    </div>
-                                                                    <div class="testimonial_title_holder">
-                                                                        <h5>Salomon</h5>
-                                                                    </div>
-                                                                    <div class="testimonial_text_holder">
-                                                                        <div class="testimonial_text_inner">
-                                                                            <p style="font-size: 15px">
-                                                                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras pharetra, libero non porta ornare, eros tellus scelerisque erat, a tincidunt lectus mauris et nunc. In molestie bibendum facilisis. Donec sed vulputate nisi. Vestibulum id sapien ex. Etiam lacinia pharetra ante, sed efficitur ex porttitor nec. Praesent gravida sem sed auctor sagittis. Quisque gravida elementum lorem, sodales sodales enim mattis nec. Nulla in nisl ac erat rhoncus tincidunt. Vestibulum eu ipsum bibendum, congue nibh pellentesque, sollicitudin elit. Nam urna elit, rhoncus ut mollis ac, elementum quis arcu. Cras mollis purus a mattis consequat. Nulla facilisi. Aenean ac rutrum nulla.
-                                                                            </p>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>                                                        
-                                                    </li>
-
-                                                    <li class="testimonial_content" style="width: 100%; float: left; margin-right: -100%; position: relative; display: block; z-index: 1; opacity: 0; padding: 30px; transition: opacity 0s ease 0s;">
-                                                            <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-6">
-                                                                <div class="testimonial_content_inner">
-                                                                    <div style="text-align: center;">
-                                                                        <p>
-                                                                            <img src="assets/images/img_avatar.png"
-                                                                            style="border-radius: 50%; width: unset;margin: auto;"
-                                                                                alt="Francis Dossou Sognon"
-                                                                                draggable="false">
-                                                                        </p>
-                                                                    </div>
-                                                                    <div class="testimonial_title_holder">
-                                                                        <h5>Luckman</h5>
-                                                                    </div>
-                                                                    <div class="testimonial_text_holder">
-                                                                        <div class="testimonial_text_inner">
-                                                                            <p style="font-size: 15px">
-                                                                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras pharetra, libero non porta ornare, eros tellus scelerisque erat, a tincidunt lectus mauris et nunc. In molestie bibendum facilisis. Donec sed vulputate nisi. Vestibulum id sapien ex. Etiam lacinia pharetra ante, sed efficitur ex porttitor nec. Praesent gravida sem sed auctor sagittis. Quisque gravida elementum lorem, sodales sodales enim mattis nec. Nulla in nisl ac erat rhoncus tincidunt. Vestibulum eu ipsum bibendum, congue nibh pellentesque, sollicitudin elit. Nam urna elit, rhoncus ut mollis ac, elementum quis arcu. Cras mollis purus a mattis consequat. Nulla facilisi. Aenean ac rutrum nulla. 
-                                                                            </p>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-6">
-                                                                <div class="testimonial_content_inner">
-                                                                    <div >
-                                                                        <img src="assets/images/img_avatar.png"
-                                                                        style="border-radius: 50%; width: unset;margin: auto;"
-                                                                                alt="Yezid Salami" draggable="false">
-                                                                    </div>
-                                                                    <div class="testimonial_title_holder">
-                                                                        <h5>.......</h5>
-                                                                    </div>
-                                                                    <div class="testimonial_text_holder">
-                                                                        <div class="testimonial_text_inner">
-                                                                            <p style="font-size: 15px">
-                                                                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras pharetra, libero non porta ornare, eros tellus scelerisque erat, a tincidunt lectus mauris et nunc. In molestie bibendum facilisis. Donec sed vulputate nisi. Vestibulum id sapien ex. Etiam lacinia pharetra ante, sed efficitur ex porttitor nec. Praesent gravida sem sed auctor sagittis. Quisque gravida elementum lorem, sodales sodales enim mattis nec. Nulla in nisl ac erat rhoncus tincidunt. Vestibulum eu ipsum bibendum, congue nibh pellentesque, sollicitudin elit. Nam urna elit, rhoncus ut mollis ac, elementum quis arcu. Cras mollis purus a mattis consequat. Nulla facilisi. Aenean ac rutrum nulla.
                                                                             </p>
                                                                         </div>
                                                                     </div>
@@ -2895,137 +2783,6 @@
                         </div>
                     </div>
 
-                    <!-- <div class="vc_row wpb_row section vc_row-fluid grid_section q_image_with_text_over" id="sectio"
-                         data-anchor="equipe"
-                         style=" text-align:center; margin: auto; background-repeat: no-repeat;">
-                        <div class="vc_row wpb_row vc_row-fluid" style="text-align:center;padding-top:2px">
-                            <div class="full_section_inner clearfix">
-                                <div class="wpb_column vc_column_container vc_col-sm-12">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="vc_row wpb_row vc_row-fluid" style="text-align:center;">
-                            <div class="section_inner clearfix">
-
-                                <div class="section_inner_margin clearfix">
-                                    <div class="vc_span12 wpb_column column_container">
-                                        <div class="wpb_wrapper">
-                                            <div class="wpb_text_column wpb_content_element ">
-                                                <div class="wpb_wrapper">
-                                                    <h3 style="text-align: center; margin-top: 15px;">
-                                                        <span>Dirigeants</span>
-                                                    </h3>
-                                                </div>
-                                                <div class="separator small center"
-                                                     style="margin-top:5px;margin-bottom:20px;"></div>
-                                            </div>
-                                            <div class="testimonials_c_holder testimonials_holder clearfix light">
-                                                <div class="testimonials testimonials_carousel"
-                                                     data-show-navigation="no" data-animation-type="fade"
-                                                     data-animation-speed="" data-auto-rotate-slides="9">
-                                                    <ul class="slides">
-                                                        <li class="testimonial_content flex-active-slide"
-                                                            style="width: 100%; float: left; margin-right: -100%; position: relative; display: block; z-index: 2; opacity: 1;">
-                                                            <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-6">
-                                                                <div class="testimonial_content_inner">
-                                                                   <!--  <div class="testimonial_image_holder">
-                                                                        <img src="assets/images/francis.jpg"
-                                                                             alt="Francis Dossou Sognon"
-                                                                             draggable="false">
-                                                                    </div> -->
-                                                                    <!-- <span data-type="circle" data-hover-bg-color="#00A896"
-                                                      data-hover-icon-color="#ffffff"
-
-                                                      style="font-size: 150px;font-size: 73px;">
-                                                    <i class="fa fa-circle fa-stack-base fa-stack-2x"
-                                                       style="color:#FFF;"></i>
-                                                    <span aria-hidden="true">
-                                                        <img src="assets\images\agrosfer.png"
-                                                             style="width: 100px;height: auto;margin: auto;padding-top: 34px;text-align: center;"
-                                                             alt="">
-                                                        </span> 
-                                                </span>
-                                                                    <div class="testimonial_title_holder">
-                                                                        <h5>Francis</h5>
-                                                                    </div>
-                                                                    <div class="testimonial_text_holder">
-                                                                        <div class="testimonial_text_inner">
-                                                                            <p style="font-size: 15px">
-                                                                                Après son diplôme d’ingénieur
-                                                                                ECAM-EPMI, Francis a entamé une
-                                                                                carrière de consultant dans la
-                                                                                monétique et les moyens de
-                                                                                paiement. En complément de son
-                                                                                implication dans plusieurs
-                                                                                projets stratégiques pour les
-                                                                                acteurs majeurs du marché
-                                                                                européen, il est associé dans la
-                                                                                création de startups dans la
-                                                                                FINTECH. Vous pourrez bénéficier
-                                                                                de sa solide expérience et sa
-                                                                                familiarisation avec les
-                                                                                technologies, les enjeux et les
-                                                                                stratégies de succès. Francis a
-                                                                                cofondé Acumen Network pour
-                                                                                servir son engagement vis-à-vis
-                                                                                des technologies et du continent
-                                                                                africain.
-                                                                            </p>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-6">
-                                                                <div class="testimonial_content_inner">
-                                                                    <div class="testimonial_image_holder">
-                                                                        <img src="assets/images/yezid.jpg"
-                                                                             alt="Yezid Salami" draggable="false">
-                                                                    </div>
-                                                                    
-                                                                    <div class="testimonial_title_holder">
-                                                                        <h5>Yezid</h5>
-                                                                    </div>
-                                                                    <div class="testimonial_text_holder">
-                                                                        <div class="testimonial_text_inner">
-                                                                            <p style="font-size: 15px">
-                                                                                Né au bénin, Yezid a poursuivi
-                                                                                ses études en france et y a
-                                                                                obtenu son diplôme d’ingénieur
-                                                                                en systèmes d’information. Son
-                                                                                expertise a été modelée dans
-                                                                                l’univers de la finance et des
-                                                                                marchés de capitaux à travers
-                                                                                l’europe. Auprès de grands
-                                                                                comptes européens tels que les
-                                                                                banques d’investissement, les
-                                                                                agences de trésor public, les
-                                                                                agences supranationales, Yezid
-                                                                                totalise plus de 10 années
-                                                                                d’expérience sur des projets de
-                                                                                migrations stratégiques, des
-                                                                                projets de nouvelles
-                                                                                implémentations de plateformes
-                                                                                IT. Sa vision et son expertise
-                                                                                sont des atouts majeurs pour le
-                                                                                réseau Acumen, mis à disposition
-                                                                                pour les objectifs de nos
-                                                                                clients.
-                                                                            </p>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div> 
- -->
                     <!-- Module Contact -->
                     <div class="vc_row wpb_row section vc_row-fluid grid_section" id="section10" data-anchor="contact"
                          style="text-align:left">
@@ -3060,6 +2817,7 @@
                                             <div role="form" class="wpcf7" id="wpcf7-f218-p219-o1" lang="en-US"
                                                  dir="ltr">
                                                 <div class="screen-reader-response"></div>
+
                                                 <form action="https://formspree.io/contact@acumennetworkgroup.com"
                                                       method="post"
                                                       class="wpcf7-form cf7_custom_style_2" novalidate="novalidate">
