@@ -231,10 +231,6 @@
                                             </div>
                                         </li>
 
-                                        <li data-menuanchor="equipe"
-                                            class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-15254 current_page_item  narrow">
-                                            <a href="#equipe"><span>Equipe</span></a>
-                                        </li>
                                         <li data-menuanchor="contact"
                                             class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-15254 current_page_item  narrow">
                                             <a href="#contact"><span>Contact</span></a>
@@ -283,10 +279,6 @@
                                         <li data-menuanchor="actualite"
                                             class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-15254 current_page_item  narrow">
                                             <a href="#actualite"><span>Evèmenents</span></a>
-                                        </li>
-                                        <li data-menuanchor="equipe"
-                                            class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-15254 current_page_item  narrow">
-                                            <a href="#equipe"><span>Equipe</span></a>
                                         </li>
                                         <li data-menuanchor="contact"
                                             class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-15254 current_page_item  narrow">
@@ -415,13 +407,13 @@
                                                         <div>
                                                             <h2 class="q_slide_title "
                                                                 style="color: #00A896;font-size: 71px;line-height: 70px;font-style: normal;font-weight: 700;text-shadow: none;letter-spacing: 0px;text-transform: none;">
-                                                                <span>Conseil digital<br/>&#038; Strategy Planning</span>
+                                                                <span>Conseil en stratégie digitale</span>
                                                             </h2>
                                                         </div>
                                                         <div>
                                                             <h4 class="q_slide_subtitle"
                                                                 style="color: #414141;font-size: 25px;line-height: 33px;font-style: normal;font-weight: 300;text-transform: none;letter-spacing: 0px;text-shadow: none;">
-                                                                <span style="margin-bottom: 70px;padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px">Un soutien holistique pour accompagner vos ambitions <br>de transformations technologiques ou digitales</span>
+                                                                <span style="margin-bottom: 70px;padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px">Définir avec vous votre stratégie digitale gagnante</span>
                                                             </h4>
                                                         </div>
                                                         <p class="q_slide_text" style="text-shadow: none;"><span></span>
@@ -454,7 +446,7 @@
                                                         <div>
                                                             <h4 class="q_slide_subtitle"
                                                                 style="color: #ffffff;font-size: 25px;line-height: 33px;font-style: normal;font-weight: 300;text-transform: none;letter-spacing: 0px;text-shadow: none;">
-                                                                <span style="margin-bottom: 70px;padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px">Terre d'&eacute;mergence de solutions innovantes</span>
+                                                                <span style="margin-bottom: 70px;padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px">Accompagner l'émergence de solutions digitales innovantes sur le continent</span>
                                                             </h4>
                                                         </div>
                                                         <p class="q_slide_text" style="text-shadow: none;"><span></span>
@@ -480,13 +472,13 @@
                                                         <div>
                                                             <h2 class="q_slide_title "
                                                                 style="color: #FFF;font-size: 71px;line-height: 70px;font-style: normal;font-weight: 700;text-shadow: none;letter-spacing: 0px;text-transform: none;">
-                                                                <span>Team et Actualités</span>
+                                                                <span>Au plus près d'Acumen</span>
                                                             </h2>
                                                         </div>
                                                         <div>
                                                             <h4 class="q_slide_subtitle"
                                                                 style="color: #FFF;font-size: 25px;line-height: 33px;font-style: normal;font-weight: 300;text-transform: none;letter-spacing: 0px;text-shadow: none;">
-                                                                <span style="margin-bottom: 70px;padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px">Notre équipe travaille sur de grandes innovations. <br> Suivez-nous ! </span>
+                                                                <span style="margin-bottom: 70px;padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px">Suivre notre actualité. </span>
                                                             </h4>
                                                         </div>
                                                         <p class="q_slide_text" style="text-shadow: none;"><span></span>
@@ -553,129 +545,304 @@
                     <div class="vc_row wpb_row section vc_row-fluid grid_section q_image_with_text_over" id="section0"
                          data-anchor="identite"
                          style="text-align:center;background-image: url('assets/images/genese.jpg');">
-                        <div class="vc_row wpb_row vc_row-fluid" style="text-align:center;padding-top:2%">
-                            <div class="full_section_inner clearfix">
-                                <div class="wpb_column vc_column_container vc_col-sm-12">
-                                    <div class="vc_column-inner">
-                                        <div class="wpb_wrapper" style="padding-top:20px">
-                                            <div class="wpb_text_column wpb_content_element">
-                                                <div class="wpb_wrapper">
-                                                    <h3 style="color:#fff">Identit&egrave;</h3>
-                                                </div>
-                                            </div>
-                                            <div class="separator small center"
-                                                 style="margin-top:5px;margin-bottom:38px;background-color:#fff"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
                         <div class="vc_row wpb_row vc_row-fluid" style="text-align:center;">
                             <div class="section_inner clearfix">
+
                                 <div class="section_inner_margin clearfix">
-                                    <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-6">
-                                        <div class="vc_column-inner" style="background-color:#a69982;">
+                                    <div class="wpb_column vc_column_container vc_col-sm-12">
+                                        <div class="vc_column-inner ">
                                             <div class="wpb_wrapper">
-                                                <span data-type="circle" data-hover-bg-color="#00A896"
+                                                <div class="qode_content_slider has_control_nav drag_enabled"
+                                                     data-interval="10" data-direction="false"
+                                                     data-control="true"
+                                                     data-pause-on-hover="false" data-drag="true">
+                                                    <div class="qode_content_slider_inner">
+                                                        <div class="qode_content_slider_item">
+                                                            <div class="wpb_text_column wpb_content_element ">
+                                                                <div class="wpb_text_column wpb_content_element"
+                                                                     style="padding-top:15px">
+                                                                    <div class="wpb_wrapper">
+                                                                        <h3 style="text-align: center;">Genèse et identité</h3>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="separator small center"
+                                                                     style="margin-top: 7px;margin-bottom: 20px;">
+                                                                </div>
+                                                                <div class="wpb_wrapper">
+
+                                                                </div>
+                                                            </div>
+                                                                <div class="separator transparent center"
+                                                                 style="margin-top:25px;"></div>
+                                                                <div class="vc_row wpb_row vc_row-fluid vc_inner" style="text-align:left; margin-top: 46px!important;">
+                                                                <div class="section_inner_margin clearfix">
+                                                                    <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-6">
+                                                                        <div class="vc_column-inner" style="background-color:#a69982;">
+                                                                            <div class="wpb_wrapper">
+                                                                                <span data-type="circle" data-hover-bg-color="#00A896"
                                                       data-hover-icon-color="#ffffff"
                                                       class="qode_icon_shortcode fa-stack q_font_awsome_icon_stack fa-lg"
-                                                      style="font-size: 49px;font-size: 73px;">
+                                                      style="font-size: 49px;font-size: 73px;margin: auto; width: 100%;">
                                                     <i class="fa fa-circle fa-stack-base fa-stack-2x"
                                                        style="color:#00A896;"></i>
                                                     <span aria-hidden="true"
                                                           class="qode_icon_font_elegant icon_hourglass qode_icon_element fa-stack-1x"
                                                           style="font-size: 49px;color:#ffffff;"></span>
                                                 </span>
-                                                <div class="vc_empty_space" style="height: 23px">
+                                                                                <div class="vc_empty_space" style="height: 23px">
                                                     <span class="vc_empty_space_inner">
                                                         <span class="empty_space_image"></span>
                                                     </span>
-                                                </div>
-                                                <div class="wpb_text_column wpb_content_element ">
-                                                    <div class="wpb_wrapper">
-                                                        <h5 style="color:#fff">Origines</h5>
-                                                    </div>
-                                                </div>
-                                                <div class="vc_empty_space" style="height: 18px">
+                                                                                </div>
+                                                                                <div class="wpb_text_column wpb_content_element ">
+                                                                                    <div class="wpb_wrapper">
+                                                                                        <h5 style="color:#fff;text-align: center;">Origines</h5>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="vc_empty_space" style="height: 18px">
                                                     <span class="vc_empty_space_inner">
                                                         <span class="empty_space_image"></span>
                                                     </span>
-                                                </div>
-                                                <div class="wpb_text_column wpb_content_element ">
-                                                    <div class="wpb_wrapper">
-                                                        <p style="color:#fff">Acumen Network est n&eacute; de la volont&eacute;
-                                                            d&rsquo;<b>experts afro-optimistes</b> de
-                                                            <b>s’engager dans la transformation</b> en cours sur le
-                                                            continent grâce au num&eacute;rique.
-                                                            <br>
-                                                            Mais &eacute;galement d&rsquo;une <b>ambition de servir de
-                                                                levier</b>
-                                                            pour dynamiser les strat&eacute;gies des acteurs &eacute;conomiques
-                                                            du
-                                                            continent.
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                                <div class="vc_empty_space" style="height: 50px">
+                                                                                </div>
+                                                                                <div class="wpb_text_column wpb_content_element ">
+                                                                                    <div class="wpb_wrapper">
+                                                                                        <p style="color:#fff">Acumen Network est n&eacute; de la volont&eacute;
+                                                                                            d&rsquo;<b>experts afro-optimistes</b> de
+                                                                                            <b>s’engager dans la transformation</b> en cours sur le
+                                                                                            continent grâce au num&eacute;rique.
+                                                                                            <br>
+                                                                                            Nous avons &eacute;galement l'<b>ambition de servir de
+                                                                                                levier</b>
+                                                                                            pour dynamiser les strat&eacute;gies des acteurs &eacute;conomiques
+                                                                                            du
+                                                                                            continent.
+                                                                                        </p>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="vc_empty_space" style="height: 50px">
                                                     <span class="vc_empty_space_inner">
                                                         <span class="empty_space_image"></span>
                                                     </span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-6">
-                                        <div class="vc_column-inner" style="background-color: #fff">
-                                            <div class="wpb_wrapper">
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-6">
+                                                                        <div class="vc_column-inner" style="background-color: #fff">
+                                                                            <div class="wpb_wrapper">
                                                 <span data-type="circle" data-hover-bg-color="#00A896"
                                                       data-hover-icon-color="#ffffff"
                                                       class="qode_icon_shortcode fa-stack q_font_awsome_icon_stack fa-lg"
-                                                      style="font-size: 49px;font-size: 73px;">
+                                                      style="font-size: 49px;font-size: 73px;text-align: center;margin: auto; width: 100%;">
                                                     <i class="fa fa-circle fa-stack-base fa-stack-2x"
                                                        style="color:#00A896;"></i>
                                                     <span aria-hidden="true"
                                                           class="qode_icon_font_elegant flaticon-telescope qode_icon_element fa-stack-1x"
                                                           style="font-size:49px;color:#ffffff;"></span>
                                                 </span>
-                                                <div class="vc_empty_space" style="height: 23px">
+                                                                                <div class="vc_empty_space" style="height: 23px">
                                                     <span class="vc_empty_space_inner">
                                                         <span class="empty_space_image"></span>
                                                     </span>
-                                                </div>
-                                                <div class="wpb_text_column wpb_content_element ">
-                                                    <div class="wpb_wrapper">
-                                                        <h5 style="color:#a69982;">Vision</h5>
+                                                                                </div>
+                                                                                <div class="wpb_text_column wpb_content_element ">
+                                                                                    <div class="wpb_wrapper">
+                                                                                        <h5 style="color:#a69982; text-align: center;">Vision</h5>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="vc_empty_space" style="height: 18px">
+                                                    <span class="vc_empty_space_inner">
+                                                        <span class="empty_space_image"></span>
+                                                    </span>
+                                                                                </div>
+                                                                                <div class="wpb_text_column wpb_content_element ">
+                                                                                    <div class="wpb_wrapper">
+                                                                                        <p style="color:#a69982;">Nous visons a allier <b> nos expertises en management des technologies avec les expertises   et les talents de nos clients </b> pour creer des synergies gagnantes.
+                                                                                            <b>Grace a une offre de services complete et un partenariat rapproché, nous les accompagnons dans l'innovation.</b>
+                                                                                        </p>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="vc_empty_space" style="height: 50px">
+                                                    <span class="vc_empty_space_inner">
+                                                        <span class="empty_space_image"></span>
+                                                    </span>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="qode_content_slider_item">
+                                                            <div class="wpb_text_column wpb_content_element ">
+                                                                <div class="wpb_text_column wpb_content_element"
+                                                                     style="padding-top:15px">
+                                                                    <div class="wpb_wrapper">
+                                                                        <h3 style="text-align: center;">
+                                                                            Equipe dirigeante</h3>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="separator small center"
+                                                                     style="margin-top: 7px;margin-bottom: 20px;">
+                                                                </div>
+                                                            </div>
+                                                            <div class="separator transparent center"
+                                                                 style="margin-top:25px;"></div>
+
+                                                            <div class="wpb_wrapper">
+
+                                                            </div>
+                                                            <div class="separator transparent center"
+                                                                 style="margin-top:25px;"></div>
+                                                            <div class="vc_row wpb_row vc_row-fluid vc_inner"
+                                                                 style="text-align:left;">
+                                                                <div class=" full_section_inner clearfix">
+                                                                    <div class="exprtise wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-12">
+                                                                        <div class="testimonial_content_inner">
+                                                                            <div style="min-height: 395px; background-color: #FFF;  padding:10px 30px 25px;margin-top:10px" class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-12 vc_col-md-12">
+                                                                                <div class="testimonial_content_inner">
+                                                                                    <div style="text-align: center;">
+                                                                                        <p>
+                                                                                            <img src="assets/images/francis.jpg"
+                                                                                                 style="border-radius: 50%; width: unset;margin: auto;"
+                                                                                                 alt="Francis Dossou Sognon"
+                                                                                                 draggable="false">
+                                                                                        </p>
+                                                                                    </div>
+                                                                                    <div class="testimonial_title_holder">
+                                                                                        <h5 style="text-align: center;    color: #a69982;">Francis</h5>
+                                                                                    </div>
+                                                                                    <div class="testimonial_text_holder">
+                                                                                        <div class="testimonial_text_inner">
+                                                                                            <p style="font-size: 15px; text-align: justify; color: #a69982;">
+                                                                                                Après son diplôme d’ingénieur
+                                                                                                ECAM-EPMI, Francis a entamé une
+                                                                                                carrière de consultant dans la
+                                                                                                monétique et les moyens de
+                                                                                                paiement. En complément de son
+                                                                                                implication dans plusieurs
+                                                                                                projets stratégiques pour les
+                                                                                                acteurs majeurs du marché
+                                                                                                européen, il est associé dans la
+                                                                                                création de startups TrustID. Francis a
+                                                                                                cofondé Acumen Network pour
+                                                                                                servir son engagement vis-à-vis
+                                                                                                des technologies et du continent
+                                                                                                africain.
+                                                                                            </p>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="exprtise wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-12">
+                                                                        <div class="testimonial_content_inner">
+                                                                            <div style="min-height: 395px; background-color: #a69982; padding:10px 30px 25px;margin-top:10px" class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-12 vc_col-md-12">
+                                                                                <div class="testimonial_content_inner">
+                                                                                    <div >
+                                                                                        <img src="assets/images/yezid.jpg"
+                                                                                             style="border-radius: 50%; width: unset;margin: auto;"
+                                                                                             alt="Yezid Salami" draggable="false">
+                                                                                    </div>
+                                                                                    <div class="testimonial_title_holder">
+                                                                                        <h5 style="text-align: center; color: #FFF;">Yezid</h5>
+                                                                                    </div>
+                                                                                    <div class="testimonial_text_holder">
+                                                                                        <div class="testimonial_text_inner">
+                                                                                            <p style="font-size: 15px; text-align: justify; color: #FFF;">
+                                                                                                Né au bénin, Yezid a suivi des études d'ingénieur système d'information en france et y a
+                                                                                                obtenu son diplôme d’ingénieur en systèmes d’information. Son expertise a été modelée dans l’univers de la finance et des marchés de capitaux à travers l’europe. Auprès de grands comptes européens ( banques d’investissement, les agences de trésor public, les
+                                                                                                agences supranationales, ...). Sa vision et son expertise sont des atouts majeurs mis à disposition des objectifs de nos clients.
+                                                                                            </p>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="qode_content_slider_item">
+                                                            <div class="wpb_text_column wpb_content_element ">
+                                                                <div class="wpb_text_column wpb_content_element"
+                                                                     style="padding-top:15px">
+                                                                    <div class="wpb_wrapper">
+                                                                        <h3 style="text-align: center;">
+                                                                            Equipe dirigeante</h3>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="separator small center"
+                                                                     style="margin-top: 7px;margin-bottom: 20px;">
+                                                                </div>
+                                                            </div>
+                                                            <div class="separator transparent center"
+                                                                 style="margin-top:25px;"></div>
+
+                                                            <div class="wpb_wrapper">
+
+                                                            </div>
+                                                            <div class="separator transparent center"
+                                                                 style="margin-top:25px;"></div>
+                                                            <div class="vc_row wpb_row vc_row-fluid vc_inner"
+                                                                 style="text-align:left;">
+                                                                <div class=" full_section_inner clearfix">
+                                                                    <div class="exprtise wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-12">
+                                                                        <div style="min-height: 395px; background-color:#fff;padding:10px 30px 25px;margin-top:10px" class=" testimonial_content_inner">
+                                                                            <div style="text-align: center;">
+                                                                                <p>
+                                                                                    <img src="assets/images/harold.JPG"
+                                                                                         style="border-radius: 50%; width: unset;margin: auto;"
+                                                                                         alt="Francis Dossou Sognon"
+                                                                                         draggable="false">
+                                                                                </p>
+                                                                            </div>
+                                                                            <div class="testimonial_title_holder">
+                                                                                <h5 style="text-align: center; color: #a69982;">Harold</h5>
+                                                                            </div>
+                                                                            <div class="testimonial_text_holder">
+                                                                                <div class="testimonial_text_inner">
+                                                                                    <p style="font-size: 15px; text-align: justify; color: #a69982;">
+                                                                                        Né en Côte-d'Ivoire, Harold a été formé entre le Benin, le Sénégal et la France. Passionné de nouvelles technologies et de réseaux informatique, il obtient son diplôme d’ingénieur généraliste dominante architecture et sécurité des réseaux en France en 2008. Il s’initie aux logiciels libres et acquiert une solide expérience dans l’administration serveur et réseau au cours de sa carrière chez divers opérateurs mobiles majeurs, dans l’enseignement et l’entreprenariat. Sa passion et son expertise sont à la disposition de Acumen pour la satisfaction de sa clientèle.
+                                                                                    </p>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="exprtise wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-12">
+                                                                        <div style="min-height: 395px; color:#FFF; background-color: #a69982; padding:10px 30px 25px;margin-top:10px" class="testimonial_content_inner">
+                                                                            <div >
+                                                                                <img src="assets/images/nawel.jpg"
+                                                                                     style="border-radius: 50%; width: unset;margin: auto;"
+                                                                                     alt="Yezid Salami" draggable="false">
+                                                                            </div>
+                                                                            <div class="testimonial_title_holder">
+                                                                                <h5 style="text-align: center; color:#FFF;">Nawel</h5>
+                                                                            </div>
+                                                                            <div class="testimonial_text_holder">
+                                                                                <div class="testimonial_text_inner">
+                                                                                    <p style="font-size: 15px; text-align: justify; color:#FFF;">
+                                                                                        Née en Tunisie, Nawel a été formée entre la Tunisie et la France où elle obtient un diplome d’ingénieur en informatique et en 2012 un master 2 spécialisé en systemes d’informations
+                                                                                        en collaboration avec Telecom Et management Sud Paris.
+                                                                                        Grâce à une carrière professionnelle riche menée auprès de grands groupes comme Nokia, Murex, Thales et le Groupe Caisse des dépôts et Consignation en France,
+                                                                                        Nawel a su développer son expertise dans la conception, la mise en place et la configuration sur mesure d’architectures Big Data, sécurisées et distribuées.
+                                                                                        Experte J2EE reconnue, elle est aujourd'hui la directrice technique de Acumen Lab, elle apportera son savoir-faire dans le développement de ses solutions
+                                                                                    </p>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
                                                     </div>
-                                                </div>
-                                                <div class="vc_empty_space" style="height: 18px">
-                                                    <span class="vc_empty_space_inner">
-                                                        <span class="empty_space_image"></span>
-                                                    </span>
-                                                </div>
-                                                <div class="wpb_text_column wpb_content_element ">
-                                                    <div class="wpb_wrapper">
-                                                        <p style="color:#a69982;">Acumen Network a pour vision d&rsquo;allier
-                                                            ses <b>expertises en
-                                                                management de technologies</b> avec les <b>expertises et
-                                                                talents de nos clients</b> pour cr&eacute;er des
-                                                            synergies gagnantes.
-                                                            <br>
-                                                            En fournissant une
-                                                            <b>gamme compl&egrave;te de services int&eacute;gr&eacute;s
-                                                                innovants</b> &agrave; travers un
-                                                            <b>partenariat rapproch&eacute;</b>.
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                                <div class="vc_empty_space" style="height: 50px">
-                                                    <span class="vc_empty_space_inner">
-                                                        <span class="empty_space_image"></span>
-                                                    </span>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
+
                             </div>
                         </div>
                     </div>
@@ -703,7 +870,7 @@
                                                         <h6 style="color:#ffffff">
                                                             Un partenariat de proximit&eacute; et de longue dur&eacute;e
                                                             marqu&eacute; par un
-                                                            support dans la conception, l"impl&eacute;mentation et
+                                                            support dans la conception, l'impl&eacute;mentation et
                                                             l&rsquo;&eacute;valuation de vos d&eacute;cisions strat&eacute;giques
                                                         </h6>
                                                     </div>
@@ -761,8 +928,8 @@
                                                                     <span class="qode-np-line"></span>
                                                                 </div>
                                                                 <p>
-                                                                    <b>Recommandations d&rsquo;experts</b><br>
-                                                                    <span style="font-size:15px;">Consultants, laboratoire d&rsquo;innovation et de prototypage, sp&eacute;cialistes de la conduite du changement, de la formation et du coaching</span>
+                                                                    <b>Recommandations</b><br>
+                                                                    <span style="font-size:15px;">Consultants, laboratoire d&rsquo;innovation et de prototypage.</span>
                                                                 </p>
                                                             </div>
                                                             <div class="qode-np-item">
@@ -782,7 +949,7 @@
                                                                 </div>
                                                                 <p>
                                                                     <b>Pilotage sp&eacute;cialis&eacute;</b><br>
-                                                                    <span style="font-size:15px;">Accompagnement en conseil et pilotage, sur site ou &agrave; distance, formation, coaching</span>
+                                                                    <span style="font-size:15px;">Pilotage spécialisé, conseil, developpement, formation et coaching</span>
                                                                 </p>
                                                             </div>
                                                         </div>
@@ -870,10 +1037,9 @@
                                                                                                     Direction de projet
                                                                                                     / M&eacute;thodologies
                                                                                                     de projets / MOA /
-                                                                                                    Conception /Gestion
-                                                                                                    de ressources / Impl&eacute;mentation
+                                                                                                    Conception /Pilotage ressources IT / Impl&eacute;mentation
                                                                                                     /
-                                                                                                    Documentation</p>
+                                                                                                    Documentation technique</p>
                                                                                             </div>
                                                                                         </div>
                                                                                         <div class="vc_empty_space"
@@ -1118,7 +1284,7 @@
                                                                              style="padding-top:15px">
                                                                             <div class="wpb_wrapper">
                                                                                 <h3 style="text-align: center;">
-                                                                                    Réalisations</h3>
+                                                                                    Cas d'illustration</h3>
                                                                             </div>
                                                                         </div>
                                                                         <div class="separator small center"
@@ -1218,7 +1384,7 @@
                                                                              style="padding-top:15px">
                                                                             <div class="wpb_wrapper">
                                                                                 <h3 style="text-align: center;">
-                                                                                    Réalisations</h3>
+                                                                                    Cas d'illustration</h3>
                                                                             </div>
                                                                         </div>
                                                                         <div class="separator small center"
@@ -1334,10 +1500,7 @@
 
                                                                     <div class="wpb_wrapper">
                                                                         <h6 style="text-align: center;">
-                                                                            Nous avons accompagné le réseau des
-                                                                            producteurs d'ananas du Bénin dans leur
-                                                                            démarche de transformation digital à travers
-                                                                            le progiciel Agrosfer.
+                                                                            Conception et lancement de la plateforme AgroSfer
                                                                         </h6>
                                                                     </div>
                                                                     <div class="separator transparent center"
@@ -1365,15 +1528,10 @@
                                                                                          style="margin-top:10px">
                                                                                         <p>
                                                                                             <b>Contexte</b> :
-                                                                                            <b>Dématérialisation</b> des
-                                                                                            activités des techniciens du
-                                                                                            REPAB dans le suivi de la
-                                                                                            production d'ananas
+                                                                                            <b> Fourniture d'un outil digital  visant ameliorer la gestion des cooperatives et exploitations agricoles;</b> developpé en partenariat avec le RePAB (Reseau des Producteurs d'Ananas du Benin).
                                                                                         </p>
                                                                                         <p>
-                                                                                            <b>Engagement</b> : suivi
-                                                                                            continu de l'évolution de ce
-                                                                                            système d'information.
+                                                                                            <b>Engagement: </b>  Conception, developpement, mise en place et suivi de la solution par les equipes Acumen Network.
                                                                                         </p>
                                                                                     </div>
                                                                                 </div>
@@ -1413,9 +1571,7 @@
                                                  style="margin-top:5px;margin-bottom:38px;"></div>
                                             <div class="wpb_text_column wpb_content_element">
                                                 <div class="wpb_wrapper">
-                                                    <h6>Une offre cibl&eacute;e pour les entreprises technophiles,
-                                                        naturellement sensibles au
-                                                        digital, comme aux acteurs moins expos&eacute;s.
+                                                    <h6>Une offre adaptable pour les entreprises technophiles. naturellement sensibles au digital. comme pour les acteurs moins exposés.
                                                     </h6><br>
                                                 </div>
                                             </div>
@@ -1594,7 +1750,7 @@
                                                                                 <div class="wpb_wrapper">
                                                                                     <h6>Nous avons plusieurs experts
                                                                                         dans de nombreux domaines de
-                                                                                        spécialités à travers le monde.
+                                                                                        spécialités.
                                                                                     </h6><br>
                                                                                 </div>
                                                                             </div>
@@ -1616,6 +1772,12 @@
                                                                                 style="float: none; width: 200px;border-bottom: none;">
                                                                                 <a href="#home_animation_1"
                                                                                    data-toggle="tab"
+                                                                                   aria-expanded="true">Stratégie</a></li>
+
+                                                                            <li role="presentation" class="active"
+                                                                                style="float: none; width: 200px;border-bottom: none;">
+                                                                                <a href="#home_animation_1"
+                                                                                   data-toggle="tab"
                                                                                    aria-expanded="true">Finance
                                                                                     Digitale</a></li>
 
@@ -1624,21 +1786,33 @@
                                                                                     href="#profile_animation_1"
                                                                                     data-toggle="tab"
                                                                                     aria-expanded="false">Développement
-                                                                                Web</a></li>
+                                                                                Front-End Web</a></li>
 
                                                                             <li role="presentation" class=""
                                                                                 style="float: none;width: 200px;"><a
                                                                                     href="#messages_animation_1"
                                                                                     data-toggle="tab"
                                                                                     aria-expanded="false">Développement
-                                                                                Mobile</a></li>
+                                                                                Front-End Mobile</a></li>
 
                                                                             <li role="presentation" class=""
                                                                                 style="float: none;width: 200px;"><a
                                                                                     href="#settings_animation_1"
                                                                                     data-toggle="tab"
-                                                                                    aria-expanded="false">Formateurs et
-                                                                                Coachs</a></li>
+                                                                                    aria-expanded="false">Développement Backend</a></li>
+
+                                                                            <li role="presentation" class=""
+                                                                                style="float: none;width: 200px;"><a
+                                                                                        href="#settings_animation_1"
+                                                                                        data-toggle="tab"
+                                                                                        aria-expanded="false">Conduite de changement</a></li>
+
+                                                                            <li role="presentation" class=""
+                                                                                style="float: none;width: 200px;"><a
+                                                                                        href="#settings_animation_1"
+                                                                                        data-toggle="tab"
+                                                                                        aria-expanded="false">Formations et
+                                                                                    Coaching</a></li>
                                                                         </ul>
 
                                                                         <!-- Tab panes -->
@@ -1922,6 +2096,213 @@
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
+                                                                            <div role="tabpanel"
+                                                                                 class="tab-pane animated fadeInRight"
+                                                                                 id="profile_animation_1">
+                                                                                <div class=" col-lg-12 col-md-12 col-sm-12 col-xs-12"
+                                                                                     style="border: 8px solid #555!important;min-height: 300px;padding:20px">
+                                                                                    <div>
+                                                                                        <h4>Afrique</h4>
+                                                                                        <div class=" col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                                                                            <b> Expert 1</b>
+                                                                                            <p>
+                                                                                                Lorem ipsum dolor sit
+                                                                                                amet, ut duo atqui
+                                                                                                exerci dicunt, ius
+                                                                                                impedit mediocritatem
+                                                                                                an. Pri ut tation
+                                                                                                electram moderatius.
+                                                                                                Per te suavitate
+                                                                                                democritum.
+                                                                                            </p>
+                                                                                        </div>
+
+                                                                                        <div class=" col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                                                                            <b> Expert 2</b>
+                                                                                            <p>
+                                                                                                Lorem ipsum dolor sit
+                                                                                                amet, ut duo atqui
+                                                                                                exerci dicunt, ius
+                                                                                                impedit mediocritatem
+                                                                                                an. Pri ut tation
+                                                                                                electram moderatius.
+                                                                                                Per te suavitate
+                                                                                                democritum.
+                                                                                            </p>
+                                                                                        </div>
+                                                                                    </div>
+
+                                                                                    <div style="margin-top:30px">
+
+                                                                                        <h4>Europe</h4>
+                                                                                        <div class=" col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                                                                            <b> Expert 1</b>
+                                                                                            <p>
+                                                                                                Lorem ipsum dolor sit
+                                                                                                amet, ut duo atqui
+                                                                                                exerci dicunt, ius
+                                                                                                impedit mediocritatem
+                                                                                                an. Pri ut tation
+                                                                                                electram moderatius.
+                                                                                                Per te suavitate
+                                                                                                democritum.
+                                                                                            </p>
+                                                                                        </div>
+
+                                                                                        <div class=" col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                                                                            <b> Expert 2</b>
+                                                                                            <p>
+                                                                                                Lorem ipsum dolor sit
+                                                                                                amet, ut duo atqui
+                                                                                                exerci dicunt, ius
+                                                                                                impedit mediocritatem
+                                                                                                an. Pri ut tation
+                                                                                                electram moderatius.
+                                                                                                Per te suavitate
+                                                                                                democritum.
+                                                                                            </p>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div role="tabpanel"
+                                                                                 class="tab-pane animated fadeInRight"
+                                                                                 id="messages_animation_1">
+                                                                                <div class=" col-lg-12 col-md-12 col-sm-12 col-xs-12"
+                                                                                     style="border: 8px solid #555!important;min-height: 300px;padding:20px">
+                                                                                    <div>
+                                                                                        <h4>Afrique</h4>
+                                                                                        <div class=" col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                                                                            <b> Expert 1</b>
+                                                                                            <p>
+                                                                                                Lorem ipsum dolor sit
+                                                                                                amet, ut duo atqui
+                                                                                                exerci dicunt, ius
+                                                                                                impedit mediocritatem
+                                                                                                an. Pri ut tation
+                                                                                                electram moderatius.
+                                                                                                Per te suavitate
+                                                                                                democritum.
+                                                                                            </p>
+                                                                                        </div>
+
+                                                                                        <div class=" col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                                                                            <b> Expert 2</b>
+                                                                                            <p>
+                                                                                                Lorem ipsum dolor sit
+                                                                                                amet, ut duo atqui
+                                                                                                exerci dicunt, ius
+                                                                                                impedit mediocritatem
+                                                                                                an. Pri ut tation
+                                                                                                electram moderatius.
+                                                                                                Per te suavitate
+                                                                                                democritum.
+                                                                                            </p>
+                                                                                        </div>
+                                                                                    </div>
+
+                                                                                    <div style="margin-top:30px">
+
+                                                                                        <h4>Europe</h4>
+                                                                                        <div class=" col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                                                                            <b> Expert 1</b>
+                                                                                            <p>
+                                                                                                Lorem ipsum dolor sit
+                                                                                                amet, ut duo atqui
+                                                                                                exerci dicunt, ius
+                                                                                                impedit mediocritatem
+                                                                                                an. Pri ut tation
+                                                                                                electram moderatius.
+                                                                                                Per te suavitate
+                                                                                                democritum.
+                                                                                            </p>
+                                                                                        </div>
+
+                                                                                        <div class=" col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                                                                            <b> Expert 2</b>
+                                                                                            <p>
+                                                                                                Lorem ipsum dolor sit
+                                                                                                amet, ut duo atqui
+                                                                                                exerci dicunt, ius
+                                                                                                impedit mediocritatem
+                                                                                                an. Pri ut tation
+                                                                                                electram moderatius.
+                                                                                                Per te suavitate
+                                                                                                democritum.
+                                                                                            </p>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div role="tabpanel"
+                                                                                 class="tab-pane animated fadeInRight"
+                                                                                 id="settings_animation_1">
+                                                                                <div class=" col-lg-12 col-md-12 col-sm-12 col-xs-12"
+                                                                                     style="border: 8px solid #555!important;min-height: 300px;padding:20px">
+                                                                                    <div>
+                                                                                        <h4>Afrique</h4>
+                                                                                        <div class=" col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                                                                            <b> Expert 1</b>
+                                                                                            <p>
+                                                                                                Lorem ipsum dolor sit
+                                                                                                amet, ut duo atqui
+                                                                                                exerci dicunt, ius
+                                                                                                impedit mediocritatem
+                                                                                                an. Pri ut tation
+                                                                                                electram moderatius.
+                                                                                                Per te suavitate
+                                                                                                democritum.
+                                                                                            </p>
+                                                                                        </div>
+
+                                                                                        <div class=" col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                                                                            <b> Expert 2</b>
+                                                                                            <p>
+                                                                                                Lorem ipsum dolor sit
+                                                                                                amet, ut duo atqui
+                                                                                                exerci dicunt, ius
+                                                                                                impedit mediocritatem
+                                                                                                an. Pri ut tation
+                                                                                                electram moderatius.
+                                                                                                Per te suavitate
+                                                                                                democritum.
+                                                                                            </p>
+                                                                                        </div>
+                                                                                    </div>
+
+                                                                                    <div style="margin-top:30px">
+
+                                                                                        <h4>Europe</h4>
+                                                                                        <div class=" col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                                                                            <b> Expert 1</b>
+                                                                                            <p>
+                                                                                                Lorem ipsum dolor sit
+                                                                                                amet, ut duo atqui
+                                                                                                exerci dicunt, ius
+                                                                                                impedit mediocritatem
+                                                                                                an. Pri ut tation
+                                                                                                electram moderatius.
+                                                                                                Per te suavitate
+                                                                                                democritum.
+                                                                                            </p>
+                                                                                        </div>
+
+                                                                                        <div class=" col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                                                                            <b> Expert 2</b>
+                                                                                            <p>
+                                                                                                Lorem ipsum dolor sit
+                                                                                                amet, ut duo atqui
+                                                                                                exerci dicunt, ius
+                                                                                                impedit mediocritatem
+                                                                                                an. Pri ut tation
+                                                                                                electram moderatius.
+                                                                                                Per te suavitate
+                                                                                                democritum.
+                                                                                            </p>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
                                                                         </div>
 
 
@@ -1986,7 +2367,7 @@
                                                              style="text-align:left;">
                                                             <div class=" full_section_inner clearfix">
 
-                                                                <div class=" col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                                                                <div class=" col-lg-6 col-md-6 col-sm-12 col-xs-12">
                                                                     <div class="panel-group" id="accordion_1"
                                                                          role="tablist" aria-multiselectable="true">
                                                                         <div class="panel panel-success">
@@ -1999,7 +2380,8 @@
                                                                                          src="assets/images/comellink.png"
                                                                                          alt="a" width="100"
                                                                                          height="100" draggable="false">
-                                                                                    </br> <div><b>Comellink</b></div>
+                                                                                    </br> <div><b><a href="https://www.comellink.com/"
+                                                                                                     style="text-decoration-line: none" target="_blank">www.comellink.com</a></b></div>
                                                                                 </h4>
                                                                             </div>
                                                                             <div id="collapseThree_1"
@@ -2026,10 +2408,11 @@
                                                                                 <h4 class="panel-title" style="text-align:center;">
 
                                                                                     <img class="wp-image-3863 size-full"
-                                                                                         src="assets/images/elab.png"
+                                                                                         src="assets/images/tracelink.png"
                                                                                          alt="a" width="100"
                                                                                          height="100" draggable="false">
-                                                                                    </br><div> <b>E. Lab</b>  </div>
+                                                                                    </br><div> <b><a href="https://www.tracelink.com/"
+                                                                                                     style="text-decoration-line: none" target="_blank">www.tracelink.com</a></b>  </div>
                                                                                 </h4>
                                                                             </div>
                                                                             <div id="collapseThree_2"
@@ -2038,13 +2421,9 @@
                                                                                  aria-expanded="false"
                                                                                  style="display:none">
                                                                                 <div class="panel-body">
-                                                                                    <p><b>Laboratoire</b> dynamique basé
-                                                                                        à Dakar,
-                                                                                        spécialisé dans la création de
-                                                                                        <b>solutions
-                                                                                            digitales sur mesure (sites,
-                                                                                            applications, logiciels,
-                                                                                            etc.).</b>
+                                                                                        Associant des <b>connaissances en technologies sciences de la vie   et
+                                                                                        processus opérationnel </b> avec une vision claire. Tracelink fait progresser
+                                                                                        <b>le secteur de la santé</b> grace à des solutions logicielles innovantes et non conventionnelles.
                                                                                     </p>
                                                                                 </div>
                                                                             </div>
@@ -2052,7 +2431,7 @@
                                                                     </div>
                                                                 </div>
 
-                                                                <div class=" col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                                                                <div class=" col-lg-6 col-md-6 col-sm-12 col-xs-12">
                                                                     <div class="panel-group" id="accordion_2"
                                                                          role="tablist" aria-multiselectable="true">
                                                                         <div class="panel panel-success">
@@ -2066,7 +2445,8 @@
                                                                                          alt="a" width="100"
                                                                                          height="100" draggable="false">
                                                                                     </br>
-                                                                                    <div> <b>Syrtals Cards</b>  </div>
+                                                                                    <div> <b><a href="https://www.syrtals-cards.com/"
+                                                                                                style="text-decoration-line: none" target="_blank">www.syrtals-cards.com</a></b>  </div>
                                                                                 </h4>
                                                                             </div>
                                                                             <div id="collapseThree_3"
@@ -2097,7 +2477,8 @@
                                                                                          alt="a" width="100"
                                                                                          height="100" draggable="false">
                                                                                     </br>  
-                                                                                    <div ><b>KSI</b></div>
+                                                                                    <div ><b><a href="https://www.ksi-partners.com/"
+                                                                                                style="text-decoration-line: none" target="_blank">wwww.ksi-partners.com</a></b></div>
                                                                                 </h4>
                                                                                 
                                                                             </div>
@@ -2108,76 +2489,11 @@
                                                                                  aria-expanded="false"
                                                                                  style="display:none">
                                                                                 <div class="panel-body">
-                                                                                    Cabinet de conseil reconnu en
+                                                                                    <b>Cabinet de conseil reconnu en
                                                                                     stratégie opérationnelle, management
-                                                                                    et marketing dans le secteur de la
+                                                                                    et marketing</b> dans le secteur de la
                                                                                     Banque, de l’Assurance et du
                                                                                     Commerce.
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-
-                                                                <div class=" col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                                                                    <div class="panel-group" id="accordion_3"
-                                                                         role="tablist" aria-multiselectable="true">
-                                                                        <div class="panel panel-success">
-                                                                            <div class="panel-heading" role="tab"
-                                                                                 id="headingThree_5">
-                                                                                <h4 style="text-align:center;" class="panel-title">
-
-                                                                                    <img class="wp-image-3863 size-full"
-                                                                                         src="assets/images/acm.png"
-                                                                                         alt="a" width="100"
-                                                                                         height="100" draggable="false">
-                                                                                    </br> <div> <b>ACM</b>  </div>
-                                                                                </h4>
-                                                                            </div>
-                                                                            <div id="collapseThree_5"
-                                                                                 class="panel-collapse" role="tabpanel"
-                                                                                 aria-labelledby="headingThree_1"
-                                                                                 aria-expanded="false"
-                                                                                 style="display:none">
-                                                                                <div class="panel-body">
-                                                                                    <b>Spécialiste du coaching et de la
-                                                                                        communication</b>,
-                                                                                    aide les entreprises à
-                                                                                    <b>révéler les talents</b> au sein
-                                                                                    de leurs
-                                                                                    équipes, à travers des <b>contenus
-                                                                                    ciblés</b>.
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="panel panel-success">
-                                                                            <div class="panel-heading" role="tab"
-                                                                                 id="headingThree_6">
-                                                                                <h4 style="text-align:center;" class="panel-title">
-
-                                                                                    <img class="wp-image-3863 size-full"
-                                                                                         src="assets/images/peoplestay.png"
-                                                                                         alt="a" width="100"
-                                                                                         height="100" draggable="false">
-                                                                                    </br>
-                                                                                    <span> <b>People Stay</b>  </span>
-                                                                                </h4>
-                                                                            </div>
-                                                                            <div id="collapseThree_6"
-                                                                                 class="panel-collapse" role="tabpanel"
-                                                                                 aria-labelledby="headingThree_2"
-                                                                                 aria-expanded="false"
-                                                                                 style="display:none">
-                                                                                <div class="panel-body">
-                                                                                    <p>Agence de <b>marketing
-                                                                                        relationnel</b>,
-                                                                                        spécialisée dans les <b>solutions
-                                                                                            digitales
-                                                                                            d’amélioration de la
-                                                                                            performance</b>, de la
-                                                                                        <b>motivation</b> et de l’<b>expérience
-                                                                                            client.</b>
-                                                                                    </p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -2251,9 +2567,7 @@
                                                 </div>
                                                 <div class="wpb_text_column wpb_content_element ">
                                                     <div class="wpb_wrapper">
-                                                        <p style="color:#232527">Une solution digitale qui fournit en
-                                                            temps réel aux abonnés des informations utiles pour
-                                                            optimiser leur budget.
+                                                        <p style="color:#232527">Acumen Network développe son framework propriétaire visant à accélerer la mise en marché de ses solutions digitales autour de la collecte. traitement et valorisation de la donnée.
                                                         </p>
                                                     </div>
                                                 </div>
@@ -2298,10 +2612,8 @@
                                                 </div>
                                                 <div class="wpb_text_column wpb_content_element ">
                                                     <div class="wpb_wrapper">
-                                                        <p style="color: #232527;">Une plateforme digitale qui permettra
-                                                            aux coopératives et unités de production agricole,
-                                                            d'optimiser leur production grâce aux informations échangées
-                                                            avec leurs partenaires et prestataires.
+                                                        <p style="color: #232527;">Une plateforme digitale permettant aux exploitations et coopératives agricoles d'optimiser leur gestion et leur production grâce au traitement des données collectées au cours des cultures.
+
                                                         </p>
                                                     </div>
                                                 </div>
@@ -2344,9 +2656,7 @@
                                                 </div>
                                                 <div class="wpb_text_column wpb_content_element ">
                                                     <div class="wpb_wrapper">
-                                                        <p style="color: #232527;">Un système intelligent qui permet de
-                                                            relier les patients et les professionnels de la santé avec
-                                                            les pharmacies de la région.
+                                                        <p style="color: #232527;">Une plateforme digitale offrant aux clients de tous les secteurs la gestion de la traçabilité de produits tout long des processus métiers (fabrication. transformation. logistique. distribution. etc.).
                                                         </p>
                                                     </div>
                                                 </div>
@@ -2524,7 +2834,7 @@
                                                                         <div>
                                                                             <div>
                                                                                 <h3 style="font-size: 26px; font-weight: 400; ">
-                                                                                    Lancement de la plateforme AGROSFER,
+                                                                                    Lancement de la plateforme AgroSfer,
                                                                                     l’accélérateur de votre production
                                                                                     agricole !
                                                                                 </h3>
@@ -2539,29 +2849,10 @@
                                                                                 </div>
                                                                                 <div class="lead col-lg-6 col-md-6 col-sm-12 col-xs-12"
                                                                                      style="text-align: justify">
-                                                                                    <p>Le 17 Octobre 2018 a eu lieu à
-                                                                                        Allada, la phase
-                                                                                        d’expérimentation de la solution
-                                                                                        AGROSFER en présence de l’équipe
-                                                                                        d’Acumen Network, des membres du
-                                                                                        REPAB, et des partenaires
-                                                                                        SupAgro et Sos Faim. Lors de
-                                                                                        cette phase test, quatre
-                                                                                        tablettes configurées ont été
-                                                                                        confiées aux conseillers du
-                                                                                        REPAB (Réseau de Producteurs
-                                                                                        d’Ananas du Bénin) pour assurer
-                                                                                        le suivi de des productions
-                                                                                        d’ananas.
-                                                                                        Cette phase pilote lancée sur le
-                                                                                        terrain a pour but de former les
-                                                                                        conseillers à l’utilisation des
-                                                                                        tablettes Agrosfer et
-                                                                                        d’identifier les améliorations
-                                                                                        nécessaires avant le déploiement
-                                                                                        final.
-                                                                                    </p>
                                                                                     <p>
+                                                                                        Le 17 Octobre 2018 a eu lieu à Allada (Bénin). le lancement de la phase d'expérimentation de la solution AgroSfer en présence de l'équipe d'Acumen Network. des membres du RéPAB (Réseau de Producteurs d'Ananas du Bénin). et des partenaires SupAgro (Université de Montpellier) et SOS Faim (ONG Luxembourgeoise). Durant cette phase de test. quatre tablettes configurées ont été confiées aux techniciens du RéPAB pour assurer le suivi des producteurs d'ananas de la coopérative. Cette phase pilote a pour but de former les conseillers à l'utilisation des tablettes AgroSfer et d'identifier les améliorations nécessaires pour ajuster l'outil au plus près des réalités d'utilisation sur le terrain.<strong> A suivre ... </strong>
+                                                                                    </p>
+                                                                                    <p  style="display: none;" >
                                                                                         <a href="article19112018.html"
                                                                                            style="color:#00A896; text-decoration-line: none">
                                                                                             Lire la suite ... </a>
@@ -2578,7 +2869,7 @@
                                                                         <div>
                                                                             <div>
                                                                                 <h3 style="font-size: 26px; font-weight: 400; ">
-                                                                                    Acumen Network Labs rejoint le Tech
+                                                                                    Acumen Lab rejoint le Tech
                                                                                     Hub Solidar'IT de Cotonou
                                                                                 </h3>
                                                                             </div>
@@ -2593,34 +2884,11 @@
                                                                                 <div class="lead col-lg-6 col-md-6 col-sm-12 col-xs-12"
                                                                                      style="text-align: justify">
                                                                                     <p>
-                                                                                        Lorem ipsum dolor sit amet,
-                                                                                        consectetuer adipiscing elit.
-                                                                                        Aenean commodo ligula eget
-                                                                                        dolor. Aenean massa.
-
-                                                                                        Donec pede justo, fringilla vel,
-                                                                                        aliquet nec, vulputate eget,
-                                                                                        arcu. In enim justo, rhoncus ut,
-                                                                                        imperdiet a, venenatis vitae,
-                                                                                        justo. Nullam dictum felis eu
-                                                                                        pede mollis pretium. Integer
-                                                                                        tincidunt. Cras dapibus. Vivamus
-                                                                                        elementum semper nisi. Aenean
-                                                                                        vulputate eleifend tellus.
-                                                                                        Aenean leo ligula, porttitor eu,
-                                                                                        consequat vitae, eleifend ac,
-                                                                                        enim. Aliquam lorem ante,
-                                                                                        dapibus in, viverra quis,
-                                                                                        feugiat a, tellus. Phasellus
-                                                                                        viverra nulla ut metus varius
-                                                                                        laoreet. Quisque rutrum. Aenean
-                                                                                        imperdiet. Etiam ultricies nisi
-                                                                                        vel augue. Curabitur ullamcorper
-                                                                                        ultricies nisi. Nam eget dui.
-                                                                                        Etiam rhoncus. Maecenas tempus,
-                                                                                        tellus eget
+                                                                                        Acumen Network s'est associé avec le Club Perspectives Plus pour installer Acumen Lab. son laboratoire d'innovation au sein de l'incubateur Solidar'IT.
+                                                                                        Acumen Lab est une équipe technique constituée comme une force d'expérimentation et d'innovation. Au sein d'Acumen Network. elle se comporte comme une startup en proposant aux clients du groupe ou directement au marché des solutions innovantes autour de son coeur de métier : la collecte. le traitement et la valorisation des données au service de la performance des organisations.
+                                                                                        <strong> A suivre ... </strong>
                                                                                     </p>
-                                                                                    <p>
+                                                                                    <p style="display: none;">
                                                                                         <a href="article19112018.html"
                                                                                            style="color:#00A896; text-decoration-line: none">
                                                                                             Lire la suite ... </a>
@@ -2636,145 +2904,6 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-
-                    <!-- Equipe -->
-
-                    <div class="vc_row wpb_row section vc_row-fluid grid_section q_image_with_text_over" id="section9"
-                         data-anchor="equipe"
-                         style=" text-align:center; margin: auto; background-repeat: no-repeat;">
-                        <div class="vc_row wpb_row vc_row-fluid" style="text-align:center;padding-top:2px">
-                            <div class="full_section_inner clearfix">
-                                <div class="wpb_column vc_column_container vc_col-sm-12">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="vc_row wpb_row vc_row-fluid" style="text-align:center;">
-                            <div class="section_inner clearfix">
-
-                                <div class="vc_span12 wpb_column column_container">
-                                    <div class="wpb_wrapper">
-                                        <div class="wpb_text_column wpb_content_element ">
-                                            <div class="wpb_wrapper">
-                                                <h3 style="text-align: center;">
-                                                    <span>Dirigeants</span>
-                                                </h3>
-                                            </div>
-                                            <div class="separator small center" style="margin-top:5px;margin-bottom:30px;"></div>
-                                        </div>
-                                        <div class="testimonials_c_holder testimonials_holder clearfix light">
-                                            <div class="testimonials testimonials_carousel tstm_item_large" style="height:20em" data-show-navigation="yes" data-animation-type="fade" data-animation-speed="" data-auto-rotate-slides="9">
-                                                <ul class="slides">
-                                                    <li class="testimonial_content" style="width: 100%; float: left; margin-right: -100%; position: relative; display: block; z-index: 1; opacity: 0; padding: 30px; transition: opacity 0s ease 0s;">
-                                                        <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-6">
-                                                            <div class="testimonial_content_inner">
-                                                                <div style="text-align: center;">
-                                                                    <p>
-                                                                        <img src="assets/images/francis.jpg"
-                                                                        style="border-radius: 50%; width: unset;margin: auto;"
-                                                                            alt="Francis Dossou Sognon"
-                                                                            draggable="false">
-                                                                    </p>
-                                                                </div>
-                                                                <div class="testimonial_title_holder">
-                                                                    <h5>Francis</h5>
-                                                                </div>
-                                                                <div class="testimonial_text_holder">
-                                                                    <div class="testimonial_text_inner">
-                                                                        <p style="font-size: 15px; text-align: justify">
-                                                                            Après son diplôme d’ingénieur
-                                                                            ECAM-EPMI, Francis a entamé une
-                                                                            carrière de consultant dans la
-                                                                            monétique et les moyens de
-                                                                            paiement. En complément de son
-                                                                            implication dans plusieurs
-                                                                            projets stratégiques pour les
-                                                                            acteurs majeurs du marché
-                                                                            européen, il est associé dans la
-                                                                            création de startups TrustID. Francis a
-                                                                            cofondé Acumen Network pour
-                                                                            servir son engagement vis-à-vis
-                                                                            des technologies et du continent
-                                                                            africain.
-                                                                        </p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-6">
-                                                            <div class="testimonial_content_inner">
-                                                                <div >
-                                                                    <img src="assets/images/yezid.jpg"
-                                                                    style="border-radius: 50%; width: unset;margin: auto;"
-                                                                         alt="Yezid Salami" draggable="false">
-                                                                </div>
-                                                                <div class="testimonial_title_holder">
-                                                                    <h5>Yezid</h5>
-                                                                </div>
-                                                                <div class="testimonial_text_holder">
-                                                                    <div class="testimonial_text_inner">
-                                                                        <p style="font-size: 15px; text-align: justify">
-                                                                        Né au bénin, Yezid a suivi des études d'ingénieur système d'information en france et y a
-                                                                            obtenu son diplôme d’ingénieur en systèmes d’information. Son expertise a été modelée dans l’univers de la finance et des marchés de capitaux à travers l’europe. Auprès de grands comptes européens ( banques d’investissement, les agences de trésor public, les
-                                                                            agences supranationales, ...). Sa vision et son expertise sont des atouts majeurs mis à disposition des objectifs de nos clients.
-                                                                        </p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>                                                        
-                                                    </li>
-
-                                                    <li class="testimonial_content" style="width: 100%; float: left; margin-right: -100%; position: relative; display: block; z-index: 1; opacity: 0; padding: 30px; transition: opacity 0s ease 0s;">
-                                                            <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-6">
-                                                                <div class="testimonial_content_inner">
-                                                                    <div style="text-align: center;">
-                                                                        <p>
-                                                                            <img src="assets/images/harold.JPG"
-                                                                            style="border-radius: 50%; width: unset;margin: auto;"
-                                                                                alt="Francis Dossou Sognon"
-                                                                                draggable="false">
-                                                                        </p>
-                                                                    </div>
-                                                                    <div class="testimonial_title_holder">
-                                                                        <h5>Harold</h5>
-                                                                    </div>
-                                                                    <div class="testimonial_text_holder">
-                                                                        <div class="testimonial_text_inner">
-                                                                            <p style="font-size: 15px; text-align: justify">
-                                                                                Né en Côte-d'Ivoire, Harold a été formé entre le Benin, le Sénégal et la France. Passionné de nouvelles technologies et de réseaux informatique, il obtient son diplôme d’ingénieur généraliste dominante architecture et sécurité des réseaux en France en 2008. Il s’initie aux logiciels libres et acquiert une solide expérience dans l’administration serveur et réseau au cours de sa carrière chez divers opérateurs mobiles majeurs, dans l’enseignement et l’entreprenariat. Sa passion et son expertise sont à la disposition de Acumen pour la satisfaction de sa clientèle. 
-                                                                            </p>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-6">
-                                                                <div class="testimonial_content_inner">
-                                                                    <div >
-                                                                        <img src="assets/images/img_avatar2.jpg"
-                                                                        style="border-radius: 50%; width: unset;margin: auto;"
-                                                                             alt="Yezid Salami" draggable="false">
-                                                                    </div>
-                                                                    <div class="testimonial_title_holder">
-                                                                        <h5>Nawel</h5>
-                                                                    </div>
-                                                                    <div class="testimonial_text_holder">
-                                                                        <div class="testimonial_text_inner">
-                                                                            <p style="font-size: 15px; text-align: justify">
-                                                                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras pharetra, libero non porta ornare, eros tellus scelerisque erat, a tincidunt lectus mauris et nunc. In molestie bibendum facilisis. Donec sed vulputate nisi. Vestibulum id sapien ex. Etiam lacinia pharetra ante, sed efficitur ex porttitor nec. Praesent gravida sem sed auctor sagittis. Quisque gravida elementum lorem, sodales sodales enim mattis nec. Nulla in nisl ac erat rhoncus tincidunt. Vestibulum eu ipsum bibendum, congue nibh pellentesque, sollicitudin elit. Nam urna elit, rhoncus ut mollis ac, elementum quis arcu. Cras mollis purus a mattis consequat. Nulla facilisi. Aenean ac rutrum nulla.
-                                                                            </p>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>                                                        
-                                                    </li>
-                                                </ul>
                                             </div>
                                         </div>
                                     </div>
