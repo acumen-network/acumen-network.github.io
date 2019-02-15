@@ -76,6 +76,14 @@
             document.getElementById("menuActualiteButton").setAttribute("data-menuanchor", "actualite");
         }
 
+        function equipe() {
+            document.getElementById("menuidentiteButton").setAttribute("data-menuanchor", "equipe");
+        }
+
+        function identite() {
+            document.getElementById("menuidentiteButton").setAttribute("data-menuanchor", "identite");
+        }
+
     </script>
     <!--[if lte IE 9]>
     <link rel="stylesheet" type="text/css" href="assets/css/vc_lte_ie9.min.css" media="screen">
@@ -152,9 +160,30 @@
                                             class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-15254 current_page_item  narrow active">
                                             <a href="#presentation"><span>Home</span></a>
                                         </li>
-                                        <li data-menuanchor="identite"
-                                            class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-15254 current_page_item  narrow active">
-                                            <a href="#identite"><span>Identit&egrave;</span></a>
+
+                                        <li id="menuidentiteButton" data-menuanchor="test"
+                                            class="menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-15254 current_page_item narrow">
+                                            <a class="dropdown-toggle" href="#"
+                                               data-toggle="dropdown"><span>Identité <i class="fa fa-caret-down"
+                                                                                          style="margin-left: 5px; font-size: 20px;"></i> </span></a>
+                                            <div class="second">
+                                                <div class="inner">
+                                                    <ul>
+
+                                                        <li data-menuanchor="identite"
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page ">
+                                                            <a onclick="identite()" href="#identite" class=""><i
+                                                                    class="menu_icon fa blank"></i><span>Genèse</span><span
+                                                                    class="plus"></span></a></li>
+
+                                                        <li data-menuanchor="equipe"
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page ">
+                                                            <a onclick="equipe()" href="#equipe"
+                                                               class=""><i class="menu_icon fa blank"></i><span>Dirigeant</span><span
+                                                                    class="plus"></span></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
                                         </li>
 
                                         <li id="menuExpertiseButton" data-menuanchor="test"
@@ -246,7 +275,11 @@
                                         </li>
                                         <li data-menuanchor="identite"
                                             class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-15254 current_page_item  narrow active">
-                                            <a href="#identite"><span>Identit&egrave;</span></a>
+                                            <a href="#identite"><span>Identité</span></a>
+                                        </li>
+                                        <li data-menuanchor="identite"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-15254 current_page_item  narrow active">
+                                            <a href="#equipe"><span>Equipe</span></a>
                                         </li>
                                         <li data-menuanchor="methodologie"
                                             class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-15254 current_page_item  narrow active">
@@ -562,7 +595,7 @@
                                                                 <div class="wpb_text_column wpb_content_element"
                                                                      style="padding-top:15px">
                                                                     <div class="wpb_wrapper">
-                                                                        <h3 style="text-align: center;">Genèse et identité</h3>
+                                                                        <h3 style="text-align: center;">Genèse</h3>
                                                                     </div>
                                                                 </div>
                                                                 <div class="separator small center"
@@ -673,6 +706,33 @@
                                                                 </div>
                                                             </div>
                                                         </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Equipe -->
+                    <div class="vc_row wpb_row section vc_row-fluid grid_section q_image_with_text_over" id="section1"
+                         data-anchor="equipe"
+                         style="text-align:center;">
+                        <div class="vc_row wpb_row vc_row-fluid" style="text-align:center;">
+                            <div class="section_inner clearfix">
+
+                                <div class="section_inner_margin clearfix">
+                                    <div class="wpb_column vc_column_container vc_col-sm-12">
+                                        <div class="vc_column-inner ">
+                                            <div class="wpb_wrapper">
+                                                <div class="qode_content_slider has_control_nav drag_enabled"
+                                                     data-interval="10" data-direction="false"
+                                                     data-control="true"
+                                                     data-pause-on-hover="false" data-drag="true">
+                                                    <div class="qode_content_slider_inner">
                                                         <div class="qode_content_slider_item">
                                                             <div class="wpb_text_column wpb_content_element ">
                                                                 <div class="wpb_text_column wpb_content_element"
@@ -710,7 +770,7 @@
                                                                                         </p>
                                                                                     </div>
                                                                                     <div class="testimonial_title_holder">
-                                                                                        <h5 style="text-align: center;    color: #a69982;">Francis</h5>
+                                                                                        <h5 style="text-align: center;    color: #a69982;">Francis, Directeur Conseil</h5>
                                                                                     </div>
                                                                                     <div class="testimonial_text_holder">
                                                                                         <div class="testimonial_text_inner">
@@ -746,7 +806,7 @@
                                                                                              alt="Yezid Salami" draggable="false">
                                                                                     </div>
                                                                                     <div class="testimonial_title_holder">
-                                                                                        <h5 style="text-align: center; color: #FFF;">Yezid</h5>
+                                                                                        <h5 style="text-align: center; color: #FFF;">Yezid, Directeur Solution</h5>
                                                                                     </div>
                                                                                     <div class="testimonial_text_holder">
                                                                                         <div class="testimonial_text_inner">
@@ -799,7 +859,7 @@
                                                                                 </p>
                                                                             </div>
                                                                             <div class="testimonial_title_holder">
-                                                                                <h5 style="text-align: center; color: #a69982;">Harold</h5>
+                                                                                <h5 style="text-align: center; color: #a69982;">Harold, Directeur Sécurité  et Système</h5>
                                                                             </div>
                                                                             <div class="testimonial_text_holder">
                                                                                 <div class="testimonial_text_inner">
@@ -818,16 +878,16 @@
                                                                                      alt="Yezid Salami" draggable="false">
                                                                             </div>
                                                                             <div class="testimonial_title_holder">
-                                                                                <h5 style="text-align: center; color:#FFF;">Nawel</h5>
+                                                                                <h5 style="text-align: center; color:#FFF;">Nawel, Directrice Lab</h5>
                                                                             </div>
                                                                             <div class="testimonial_text_holder">
                                                                                 <div class="testimonial_text_inner">
                                                                                     <p style="font-size: 15px; text-align: justify; color:#FFF;">
-                                                                                        Née en Tunisie, Nawel a été formée entre la Tunisie et la France où elle obtient un diplome d’ingénieur en informatique et en 2012 un master 2 spécialisé en systemes d’informations
+                                                                                        Née en Tunisie, Nawel a un parcourt entre ce pays et la France où elle obtient un diplôme d'ingénieur en informatique , un master 2 spécialisé en systemes d’informations
                                                                                         en collaboration avec Telecom Et management Sud Paris.
-                                                                                        Grâce à une carrière professionnelle riche menée auprès de grands groupes comme Nokia, Murex, Thales et le Groupe Caisse des dépôts et Consignation en France,
-                                                                                        Nawel a su développer son expertise dans la conception, la mise en place et la configuration sur mesure d’architectures Big Data, sécurisées et distribuées.
-                                                                                        Experte J2EE reconnue, elle est aujourd'hui la directrice technique de Acumen Lab, elle apportera son savoir-faire dans le développement de ses solutions
+                                                                                        Elle réalise une carrière riche au sein de grands groupes tels que Nokia, Murex, Thales et le Groupe Caisse des dépôts et Consignation en France.
+                                                                                        Nawel dispose d'une expertise dans la conception, la mise en place et la configuration sur mesure d’architectures Big Data.
+                                                                                        Experte reconnue, elle dirige l'équipe technique Acumen Lab, pour délivrer à nos clients des prototypes et solutions innovantes.
                                                                                     </p>
                                                                                 </div>
                                                                             </div>
@@ -848,7 +908,7 @@
                     </div>
 
                     <!-- Methode -->
-                    <div class="vc_row wpb_row section vc_row-fluid grid_section" id="section1"
+                    <div class="vc_row wpb_row section vc_row-fluid grid_section" id="section9"
                          data-anchor="methodologie"
                          style="background-image: url('assets/images/pexels-photo-273230-bw.jpg');">
                         <div style="background: rgba(0,0,0,0.6); height: 100%;">
@@ -1785,21 +1845,21 @@
                                                                                 style="float: none;width: 200px;"><a
                                                                                     href="#profile_animation_1"
                                                                                     data-toggle="tab"
-                                                                                    aria-expanded="false">Développement
+                                                                                    aria-expanded="false">Dév. 
                                                                                 Front-End Web</a></li>
 
                                                                             <li role="presentation" class=""
                                                                                 style="float: none;width: 200px;"><a
                                                                                     href="#messages_animation_1"
                                                                                     data-toggle="tab"
-                                                                                    aria-expanded="false">Développement
+                                                                                    aria-expanded="false">Dév.
                                                                                 Front-End Mobile</a></li>
 
                                                                             <li role="presentation" class=""
                                                                                 style="float: none;width: 200px;"><a
                                                                                     href="#settings_animation_1"
                                                                                     data-toggle="tab"
-                                                                                    aria-expanded="false">Développement Backend</a></li>
+                                                                                    aria-expanded="false">Dév. Backend</a></li>
 
                                                                             <li role="presentation" class=""
                                                                                 style="float: none;width: 200px;"><a
@@ -2420,10 +2480,7 @@
                                                                                  aria-labelledby="headingThree_2"
                                                                                  aria-expanded="false"
                                                                                  style="display:none">
-                                                                                <div class="panel-body">
-                                                                                        Associant des <b>connaissances en technologies sciences de la vie   et
-                                                                                        processus opérationnel </b> avec une vision claire. Tracelink fait progresser
-                                                                                        <b>le secteur de la santé</b> grace à des solutions logicielles innovantes et non conventionnelles.
+                                                                                <div class="panel-body"> Tracelink fait progresser <b>le secteur de la santé</b> grace à des solutions logicielles innovantes et non conventionnelles.
                                                                                     </p>
                                                                                 </div>
                                                                             </div>
@@ -2567,7 +2624,7 @@
                                                 </div>
                                                 <div class="wpb_text_column wpb_content_element ">
                                                     <div class="wpb_wrapper">
-                                                        <p style="color:#232527">Acumen Network développe son framework propriétaire visant à accélerer la mise en marché de ses solutions digitales autour de la collecte. traitement et valorisation de la donnée.
+                                                        <p style="color:#232527">Acumen Network développe son framework propriétaire visant à accélerer la mise en marché de ses solutions digitales autour de la collecte traitement et valorisation de la donnée.
                                                         </p>
                                                     </div>
                                                 </div>
@@ -2656,7 +2713,7 @@
                                                 </div>
                                                 <div class="wpb_text_column wpb_content_element ">
                                                     <div class="wpb_wrapper">
-                                                        <p style="color: #232527;">Une plateforme digitale offrant aux clients de tous les secteurs la gestion de la traçabilité de produits tout long des processus métiers (fabrication. transformation. logistique. distribution. etc.).
+                                                        <p style="color: #232527;">Une plateforme digitale offrant aux clients de tous les secteurs la gestion de la traçabilité de produits tout long des processus métiers (transformation, logistique, distribution, etc,...).
                                                         </p>
                                                     </div>
                                                 </div>
