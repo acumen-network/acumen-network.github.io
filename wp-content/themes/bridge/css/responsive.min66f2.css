@@ -11,6 +11,7 @@
 }
 
 @media only screen and (max-width: 1400px) {
+   
     .full_width .q_masonry_blog .q_masonry_blog_grid_sizer, .full_width .q_masonry_blog article {
         width: 23%
     }
@@ -2024,6 +2025,32 @@
         height: 1050px;
     }
 
+    .technophiles {
+        width: 75%!important;
+        vertical-align: top!important;
+        text-align: justify!important;
+    }
+
+    .referentiel{
+        display: none; 
+    }
+
+    .edenred{
+        display: none;
+    }
+
+    .qode_icon_shortcode {
+        font-size: 45px!important;
+    }
+
+    .yezid{
+        display: none;
+    }
+
+    .nawel{
+        display: none;
+    }
+
     .wpb_column {
         width: 100%!important;
     }
@@ -2446,6 +2473,15 @@
 
     .qode-card-slider-holder-outer .controls .button.next {
         right: 30px
+    }
+
+    #section {
+        padding-top: 88px;
+        height: 553px!important;
+    }
+
+    #formobile{
+        display: none;
     }
 }
 
