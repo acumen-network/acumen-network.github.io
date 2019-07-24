@@ -11,6 +11,7 @@
 }
 
 @media only screen and (max-width: 1400px) {
+   
     .full_width .q_masonry_blog .q_masonry_blog_grid_sizer, .full_width .q_masonry_blog article {
         width: 23%
     }
@@ -2020,8 +2021,54 @@
         display: none
     }
 
+    .identite{
+        height: 1050px;
+    }
+
+    .technophiles {
+        width: 75%!important;
+        vertical-align: top!important;
+        text-align: justify!important;
+    }
+
+    .referentiel{
+        display: none; 
+    }
+
+    .edenred{
+        display: none;
+    }
+
+    .qode_icon_shortcode {
+        font-size: 45px!important;
+    }
+
+    .yezid{
+        display: none;
+    }
+
+    .nawel{
+        display: none;
+    }
+
+    .wpb_column {
+        width: 100%!important;
+    }
+
+    .equipeprofil{
+        width: 100%;
+    }
+
+    .vc_empty_space{
+        display: none;
+    }
+
+    .vision{
+        height: 1550px;
+    }
+
     .boxed div.section .section_inner, .carousel-inner .slider_content_outer, .container_inner, .container_inner nav.content_menu, .full_width .parallax_content, .steps_holder_inner, div.grid_section .section_inner, nav.content_menu ul {
-        width: 300px
+        width: 400px
     }
 
     .paspartu_enabled .carousel-inner .slider_content_outer, .paspartu_enabled .container_inner, .paspartu_enabled .container_inner nav.content_menu, .paspartu_enabled .full_width .parallax_content, .paspartu_enabled .steps_holder_inner, .paspartu_enabled div.grid_section .section_inner, .paspartu_enabled nav.content_menu ul, .paspartu_enabled.boxed div.section .section_inner {
@@ -2426,6 +2473,15 @@
 
     .qode-card-slider-holder-outer .controls .button.next {
         right: 30px
+    }
+
+    #section {
+        padding-top: 88px;
+        height: 553px!important;
+    }
+
+    #formobile{
+        display: none;
     }
 }
 
